@@ -1,0 +1,16 @@
+Title: SB template
+Official Title: 
+Number of Sections: 1
+Source: versions - SB2203_SD1_SFA1
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+SB template SENATE FLOOR AMENDMENT FLOOR AMENDMENT NO.                                            Date TO:    Senate Bill No. 2203, S.D. 1 SECTION 1.  Senate Bill No. 2203, S.D. 1, section 2, is amended by amending page 2, lines 13 to 17 to read as follows: "(2)  This section shall not apply to a law enforcement officer who is: (a)  Engaged in an authorized undercover assignment or operation or conducting related duties in support of an undercover assignment or operation; or (b)  Within the eyesight of another officer from the same law enforcement agency who is unmasked." Offered by: (      ) Carried (      ) Failed to Carry (      ) Withdrawn
+
+
+================================================================================
+
+Raw Text:
+SB template SENATE FLOOR AMENDMENT FLOOR AMENDMENT NO.                                            Date TO:    Senate Bill No. 2203, S.D. 1 SECTION 1.  Senate Bill No. 2203, S.D. 1, section 2, is amended by amending page 2, lines 13 to 17 to read as follows: "(2)  This section shall not apply to a law enforcement officer who is: (a)  Engaged in an authorized undercover assignment or operation or conducting related duties in support of an undercover assignment or operation; or (b)  Within the eyesight of another officer from the same law enforcement agency who is unmasked." Offered by: (      ) Carried (      ) Failed to Carry (      ) Withdrawn
