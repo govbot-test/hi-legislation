@@ -1,0 +1,59 @@
+Title: In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Official Title: In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Number of Sections: 1
+Source: versions - GM762
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AINA
+EXECUTIVE CHAMBERS
+KE KE'ENA O KE KIA'AINA
+March 16, 2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third Legislature
+Hawai’i State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+Constitution, I am withdrawing GM632:
+GM632
+Rosalee Agas-Yuu
+Hawaii Workforce Development Council
+Term End Date: June 30, 2029
+Mahalo,
+osh Green, M.D.
+Governor, State of Hawaii
+[DELETED: E OKEK,2 P KtfSi4e,R9rP    tn    Hewh 6 te psofofSamGwim3d hG,H]
+
+
+================================================================================
+
+Raw Text:
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AINA
+EXECUTIVE CHAMBERS
+KE KE'ENA O KE KIA'AINA
+March 16, 2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third Legislature
+Hawai’i State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Constitution, I am withdrawing GM632:
+GM632
+Rosalee Agas-Yuu
+Hawaii Workforce Development Council
+Term End Date: June 30, 2029
+Mahalo,
+osh Green, M.D.
+Governor, State of Hawaii
+
+[DELETED: E OKEK,2 P KtfSi4e,R9rP    tn    Hewh 6 te psofofSamGwim3d hG,H]
