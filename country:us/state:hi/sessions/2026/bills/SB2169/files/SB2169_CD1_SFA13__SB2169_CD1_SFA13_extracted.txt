@@ -1,0 +1,16 @@
+Title: SB template
+Official Title: 
+Number of Sections: 1
+Source: versions - SB2169_CD1_SFA13
+Media Type: text/html
+
+================================================================================
+
+Section 1:
+SB template SENATE FLOOR AMENDMENT FLOOR AMENDMENT NO.                                                     Date TO:     Senate Bill No. 2169, S.D. 1, H.D. 1, C.D. 1 SECTION 1.  Senate Bill No. 2169, S.D. 1, H.D. 1, C.D. 1, is amended by amending section 1, page 3, lines 14-19, to read as follows: "Accordingly, the purpose of this Act is to authorize the agribusiness development corporation to acquire real property or any interest therein, except for real property owned in a county with a population of more than 125,000 but less than 195,000 and certain public lands, by condemnation pursuant to chapter 101, Hawaii Revised Statutes, under certain circumstances." SECTION 2.  Senate Bill No. 2169, S.D. 1, H.D. 1, C.D. 1, is amended by amending section 2, page 5, lines 1-7, to read as follows: "(7)  Acquire by condemnation pursuant to chapter 101 any real property, including fixtures and improvements, or any interest in real property, except real property owned in a county with a population of more than 125,000 but less than 195,000 and public lands as defined in section 171-2, for the purposes of this chapter;" Offered by: (      ) Carried (      ) Failed to Carry (      ) Withdrawn
+
+
+================================================================================
+
+Raw Text:
+SB template SENATE FLOOR AMENDMENT FLOOR AMENDMENT NO.                                                     Date TO:     Senate Bill No. 2169, S.D. 1, H.D. 1, C.D. 1 SECTION 1.  Senate Bill No. 2169, S.D. 1, H.D. 1, C.D. 1, is amended by amending section 1, page 3, lines 14-19, to read as follows: "Accordingly, the purpose of this Act is to authorize the agribusiness development corporation to acquire real property or any interest therein, except for real property owned in a county with a population of more than 125,000 but less than 195,000 and certain public lands, by condemnation pursuant to chapter 101, Hawaii Revised Statutes, under certain circumstances." SECTION 2.  Senate Bill No. 2169, S.D. 1, H.D. 1, C.D. 1, is amended by amending section 2, page 5, lines 1-7, to read as follows: "(7)  Acquire by condemnation pursuant to chapter 101 any real property, including fixtures and improvements, or any interest in real property, except real property owned in a county with a population of more than 125,000 but less than 195,000 and public lands as defined in section 171-2, for the purposes of this chapter;" Offered by: (      ) Carried (      ) Failed to Carry (      ) Withdrawn
