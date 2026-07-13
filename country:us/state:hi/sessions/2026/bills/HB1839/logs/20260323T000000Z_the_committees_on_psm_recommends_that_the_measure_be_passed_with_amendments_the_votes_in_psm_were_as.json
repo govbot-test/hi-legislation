@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on  PSM recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in PSM were as follows: 3 Aye(s): Senator(s) Fukunaga, Lee, C., Hashimoto; Aye(s) with reservations: none ; 1 No(es): Senator(s) DeCorte; and 1 Excused: Senator(s) Inouye.",
+    "occurred_at": "2026-03-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1839&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1839"
+}

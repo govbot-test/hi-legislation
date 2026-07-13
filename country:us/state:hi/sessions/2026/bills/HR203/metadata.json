@@ -1,0 +1,117 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HR203",
+  "title": "CONGRATULATING THE 2026 FARRINGTON-KAISER-KALANI COMPLEX AREA TEACHER OF THE YEAR, THE 2026 KAPA\u02bbA-KAUA\u02bbI-WAIMEA COMPLEX AREA TEACHER OF THE YEAR, THE 2026 PEARL CITY-WAIPAHU COMPLEX AREA TEACHER OF THE YEAR, A 2025 BLUE RIBBON SCHOOL, AND TEACH FOR AMERICA HAWAI\u02bbI.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [
+    "2025 Blue Ribbon School",
+    "2026 Farrington-Kaiser-Kalani Complex Area Teacher of the Year",
+    "2026 Kapaa-Kauai-Waimea Complex Area Teacher of the Year",
+    "2026 Pearl City-Waipahu Complex Area Teacher of the Year",
+    "Teach for America Hawaii"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-hr203"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Resolution adopted in final form.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:02Z"
+      }
+    },
+    {
+      "description": "Adopted with none voting aye with reservations; none voting no (0) and Representative(s) Muraoka excused (1).",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:02Z"
+      }
+    },
+    {
+      "description": "Offered",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:02Z"
+      }
+    },
+    {
+      "description": "To be offered.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:02Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "POEPOE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"POEPOE\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HR203",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HR203_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HR203_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HR&billnumber=203&year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:02Z"
+  }
+}

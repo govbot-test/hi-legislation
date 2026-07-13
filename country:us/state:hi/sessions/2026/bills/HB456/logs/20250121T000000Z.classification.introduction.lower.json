@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Introduced and Pass First Reading.",
+    "occurred_at": "2025-01-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=456&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB456"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The recommendation of the committee(s) on LBT is to ADVISE AND CONSENT to the nomination(s).  The votes in LBT were as follows: 4 Aye(s): Senator(s) Elefante, Lamosao, Ihara, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Moriwaki.",
+    "occurred_at": "2026-02-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=671&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM671"
+}

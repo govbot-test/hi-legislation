@@ -1,0 +1,151 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB3269",
+  "title": "PROPOSING AMENDMENTS TO ARTICLE VII, SECTIONS 12 AND 13, OF THE CONSTITUTION OF THE STATE OF HAWAII TO EXPRESSLY PROVIDE THAT THE LEGISLATURE MAY AUTHORIZE THE COUNTIES TO ISSUE TAX INCREMENT BONDS AND TO EXCLUDE TAX INCREMENT BONDS FROM DETERMINATIONS OF THE FUNDED DEBT OF THE COUNTIES.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Constitutional Amendment (ConAm)",
+    "Tax Increment Bonds"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Proposes amendments to the Constitution of the State of Hawaii to expressly provide that the Legislature may authorize, by general law, political subdivisions, such as counties, to issue tax increment bonds and to exclude tax increment bonds in calculating the debt limit of the political subdivisions."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-sb3269"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to EIG, JDC/WAM.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Energy and Intergovernmental Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:56Z"
+      }
+    },
+    {
+      "description": "Passed First Reading.",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:56Z"
+      }
+    },
+    {
+      "description": "Introduced.",
+      "date": "2026-01-28",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "WAKAI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"WAKAI\"}",
+      "organization_id": null
+    },
+    {
+      "name": "CHANG",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"CHANG\"}",
+      "organization_id": null
+    },
+    {
+      "name": "RHOADS",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"RHOADS\"}",
+      "organization_id": null
+    },
+    {
+      "name": "McKelvey",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"name\": \"McKelvey\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB3269",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB3269_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB3269_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3269&year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "EIG, JDC/WAM"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:56Z"
+  }
+}

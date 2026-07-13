@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee on PBS recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 9 Ayes: Representative(s) Belatti, Iwamoto, Hashem, Ichiyama, Lamosao, Morikawa, Poepoe, Shimizu, Souza; Ayes with reservations: none; 0 Noes: none; and 1 Excused: Representative(s) Woodson.",
+    "occurred_at": "2025-01-31",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=674&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB674"
+}

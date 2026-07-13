@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Act 090, 06/05/2026 (Gov. Msg. No. 1190).",
+    "occurred_at": "2026-06-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2050&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2050"
+}

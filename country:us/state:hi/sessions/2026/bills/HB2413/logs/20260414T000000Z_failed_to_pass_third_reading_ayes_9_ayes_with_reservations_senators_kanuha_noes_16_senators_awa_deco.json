@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Failed to pass Third Reading. Ayes, 9; Aye(s) with reservations: Senator(s) Kanuha . Noes, 16 (Senator(s) Awa, DeCoite, DeCorte, Dela Cruz, Elefante, Fevella, Gabbard, Hashimoto, Inouye, Kidani, Kim, Lamosao, McKelvey, Moriwaki, Richards, Wakai). Excused, 0 (none).",
+    "occurred_at": "2026-04-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2413&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2413"
+}

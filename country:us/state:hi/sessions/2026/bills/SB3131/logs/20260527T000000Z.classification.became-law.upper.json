@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Act 050, 05/27/2026 (Gov. Msg. No. 1150).",
+    "occurred_at": "2026-05-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3131&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3131"
+}

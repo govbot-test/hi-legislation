@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from AGR (Stand. Com. Rep. No. 1251-26) as amended in HD 1, recommending passage on Second Reading and referral to HED.",
+    "occurred_at": "2026-03-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2706&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2706"
+}

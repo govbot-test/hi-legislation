@@ -1,0 +1,74 @@
+{
+  "identifier": "",
+  "motion_text": "The committee on TOU recommend that the measure be PASSED, UNAMENDED.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-24",
+  "result": "pass",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "2026",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB2698\", \"legislative_session__identifier\": \"2026\"}",
+  "bill_action": null,
+  "bill_identifier": "SB2698",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Tam",
+      "voter_id": "~{\"name\": \"Tam\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Templo",
+      "voter_id": "~{\"name\": \"Templo\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Hussey",
+      "voter_id": "~{\"name\": \"Hussey\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ilagan",
+      "voter_id": "~{\"name\": \"Ilagan\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Yamashita",
+      "voter_id": "~{\"name\": \"Yamashita\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Gedeon",
+      "voter_id": "~{\"name\": \"Gedeon\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 6
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2698&year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "11#SB2698#2026-03-24#The committee on TOU recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 6 Ayes: Representative(s) Tam, Templo, Hussey, Ilagan, Yamashita, Gedeon; Ayes with reservations: none;  Noes: none; and  Excused: none."
+}

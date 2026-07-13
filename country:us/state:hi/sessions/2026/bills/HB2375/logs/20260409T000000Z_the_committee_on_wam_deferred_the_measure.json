@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee on WAM deferred the measure.",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2375&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2375"
+}

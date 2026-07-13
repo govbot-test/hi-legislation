@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Resolution scheduled to be heard by PBS on Friday, 03-27-26 10:00AM in conference room 411 VIA VIDEOCONFERENCE.",
+    "occurred_at": "2026-03-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HR&billnumber=161&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR161"
+}

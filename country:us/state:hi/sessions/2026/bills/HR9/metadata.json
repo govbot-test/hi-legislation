@@ -1,0 +1,114 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HR9",
+  "title": "URGING THE HOUSE OF REPRESENTATIVES TO ESTABLISH AN INVESTIGATIVE COMMITTEE PURSUANT TO CHAPTER 21, HAWAII REVISED STATUTES, TO INVESTIGATE ALLEGATIONS OF A JANUARY 20, 2022 PAYMENT FROM AN UNKNOWN INDIVIDUAL TO AN \u201cINFLUENTIAL STATE LEGISLATOR\u201d FOR THE PURPORTED USE IN AN EXISTING CAMPAIGN AT THE TIME, AND TO EXAMINE POSSIBLE VIOLATIONS OF STATE LAW, THE STATE ETHICS CODE, AND CAMPAIGN FINANCE PROVISIONS.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [
+    "Legislative Investigative Committee"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-hr9"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to LMG, JHA, referral sheet 15",
+      "date": "2026-03-10",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Legislative Management",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:04Z"
+      }
+    },
+    {
+      "description": "Offered",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:04Z"
+      }
+    },
+    {
+      "description": "To be offered.",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "SOUZA",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"SOUZA\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HR9",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HR9_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HR9_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HR&billnumber=9&year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "LMG, JHA"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:04Z"
+  }
+}

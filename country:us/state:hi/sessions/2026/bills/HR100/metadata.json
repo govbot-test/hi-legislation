@@ -1,0 +1,119 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HR100",
+  "title": "REQUESTING THE DEPARTMENT OF EDUCATION TO SUBMIT A REPORT TO THE LEGISLATURE DETAILING FARM-TO-SCHOOL IMPLEMENTATION, LOCAL FOOD PROCUREMENT, REGIONAL KITCHEN ALIGNMENT, AND FEDERAL FARM-TO-SCHOOL GRANT PARTICIPATION.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [
+    "ADC",
+    "Alignment",
+    "DAB",
+    "DOE",
+    "Farm-To-School",
+    "Federal Grants",
+    "Local Food Procurement",
+    "Regional Kitchens",
+    "Report",
+    "USDA"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-hr100"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to EDN, AGR, referral sheet 19",
+      "date": "2026-03-18",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Agriculture & Food Systems",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:10Z"
+      }
+    },
+    {
+      "description": "Offered",
+      "date": "2026-03-16",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:10Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "CHUN",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"CHUN\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HCR 108, SR106",
+      "legislative_session": "2026 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "HR100",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HR100_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HR100_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HR&billnumber=100&year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "EDN, AGR"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:10Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Third Reading with none voting aye with reservations; none voting no (0) and none excused (0).  Transmitted to Senate.",
+    "occurred_at": "2026-04-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3204&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3204"
+}

@@ -1,0 +1,176 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SR25",
+  "title": "URGING STATE AGENCIES AND THE UNIVERSITY OF HAWAII WILLIAM S. RICHARDSON SCHOOL OF LAW TO COLLABORATE TO DEVELOP EXTERNSHIP OPPORTUNITIES FOR LAW STUDENTS TO ASSIST IN THE COMPREHENSIVE REVIEW AND UPDATE OF THE HAWAII ADMINISTRATIVE RULES.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "resolution"
+  ],
+  "subject": [
+    "Comprehensive Review and Update",
+    "DCCA",
+    "Externships",
+    "Hawaii Administrative Rules",
+    "Law Students",
+    "State Agencies",
+    "UH"
+  ],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-sr25"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Report and Resolution Adopted.",
+      "date": "2026-04-17",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "passage"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:09Z"
+      }
+    },
+    {
+      "description": "One Day Notice 04-17-26.",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:09Z"
+      }
+    },
+    {
+      "description": "Reported from GVO/EDU (Stand. Com. Rep. No. 3811) with recommendation of adoption.",
+      "date": "2026-04-16",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:09Z"
+      }
+    },
+    {
+      "description": "The committee(s) on EDU recommend(s) that the measure be PASSED, UNAMENDED.  The votes in EDU were as follows: 4 Aye(s): Senator(s) Kim, Kidani, Fukunaga, Hashimoto; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) DeCorte.",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:09Z"
+      }
+    },
+    {
+      "description": "The committee(s) on GVO recommend(s) that the measure be PASSED, UNAMENDED.  The votes in GVO were as follows: 3 Aye(s): Senator(s) McKelvey, Hashimoto, Moriwaki; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) Gabbard, Awa.",
+      "date": "2026-04-08",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "committee-passage-favorable"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:09Z"
+      }
+    },
+    {
+      "description": "The committee(s) on GVO/EDU has scheduled a public hearing on 04-08-26 1:00PM; Conference Room 229 & Videoconference.",
+      "date": "2026-04-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:09Z"
+      }
+    },
+    {
+      "description": "Referred to GVO/EDU.",
+      "date": "2026-03-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Government Operations",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:09Z"
+      }
+    },
+    {
+      "description": "Offered.",
+      "date": "2026-03-05",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:09Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "KEOHOKALOLE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"KEOHOKALOLE\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SR25",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SR25_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SR25_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SR&billnumber=25&year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "GVO/EDU"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:09Z"
+  }
+}

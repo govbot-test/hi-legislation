@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "HD 1 adopted and recommitted to AGR for further consideration with none voting no and Representative(s) Belatti, Cochran, Kila, Ward excused.",
+    "occurred_at": "2025-02-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=92&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB92"
+}

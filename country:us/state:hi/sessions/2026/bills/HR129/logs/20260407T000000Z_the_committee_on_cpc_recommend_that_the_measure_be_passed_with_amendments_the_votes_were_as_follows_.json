@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee on CPC recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 9 Ayes: Representative(s) Matayoshi, Grandinetti, Chun, Iwamoto, Kong, Lowen, Marten, Tam, Pierick; Ayes with reservations: none;  Noes: none; and 2 Excused: Representative(s) Ilagan, Ichiyama.",
+    "occurred_at": "2026-04-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HR&billnumber=129&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR129"
+}

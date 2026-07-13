@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Received notice of Senate conferees (Sen. Com. No. 810).",
+    "occurred_at": "2025-04-16",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=214&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB214"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Failed to pass Final Reading. Ayes, 11; Aye(s) with reservations: none. Noes, 12 (Senator(s) DeCorte, Dela Cruz, Elefante, Fevella, Gabbard, Hashimoto, Inouye, Kidani, Kim, Lamosao, Moriwaki, Wakai). Excused, 2 (Senator(s) McKelvey, San Buenaventura).",
+    "occurred_at": "2026-05-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3263&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3263"
+}

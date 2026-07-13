@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee(s) on GVO/PSM has scheduled a public hearing on 02-17-26 3:30PM; CR 225 & Videoconference.",
+    "occurred_at": "2026-02-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2882&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2882"
+}

@@ -1,0 +1,135 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2762",
+  "title": "RELATING TO BAIL.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Bail",
+    "Bail Agents",
+    "Bond",
+    "Discharge",
+    "Forfeiture",
+    "Insurers",
+    "Qualifications",
+    "Recognizance",
+    "Reinstatement",
+    "Sureties"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Allows a court to consider relevant evidence and make a determination to grant, deny, or set conditions of bail.  Requires that a defendant is to be presumed entitled to bail unless certain conditions are met.  Requires a court to set aside the forfeiture of bail if the defendant voluntarily appears before the court or is surrendered by the surety or bail agent within ninety days after a failure to appear.  Requires a court to obtain the consent of the surety or bail agent to reinstate bail.  Clarifies qualifications for bail agents, insurers, and sureties.  Clarifies the process for the discharge of bail agents, insurers, and sureties.  Allows a court discretion to determine whether the forfeiture of bail is appropriate.  Requires a motion by the principal to set aside an order of forfeiture to provide the surety or insurer with prompt notice affording opportunity to join the motion.  Allows courts discretion to reinstate a bond or recognizance or return the bond or recognizance to the appropriate party after vacating a judgment of forfeiture."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-sb2762"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to PSM/CPN, JDC.",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Public Safety and Military Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Commerce and Consumer Protection",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:10Z"
+      }
+    },
+    {
+      "description": "Passed First Reading.",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:10Z"
+      }
+    },
+    {
+      "description": "Introduced.",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:10Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "KEOHOKALOLE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"KEOHOKALOLE\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "SB2762",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB2762_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB2762_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2762&year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "PSM/CPN, JDC"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:10Z"
+  }
+}

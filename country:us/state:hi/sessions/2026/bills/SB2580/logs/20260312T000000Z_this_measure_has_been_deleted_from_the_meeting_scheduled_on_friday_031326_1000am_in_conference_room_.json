@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "This measure has been deleted from the meeting scheduled on Friday 03-13-26 10:00AM in conference room 423 VIA VIDEOCONFERENCE.",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2580&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2580"
+}

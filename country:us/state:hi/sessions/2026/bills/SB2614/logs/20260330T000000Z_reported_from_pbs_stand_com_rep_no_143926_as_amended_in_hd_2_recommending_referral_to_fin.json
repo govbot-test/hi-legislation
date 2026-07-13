@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from PBS (Stand. Com. Rep. No. 1439-26) as amended in HD 2, recommending referral to FIN.",
+    "occurred_at": "2026-03-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2614&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2614"
+}

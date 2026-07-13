@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Bill scheduled for decision making on Wednesday, 02-04-26 11:00AM in conference room 423 VIA VIDEOCONFERENCE.",
+    "occurred_at": "2026-01-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1798&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1798"
+}

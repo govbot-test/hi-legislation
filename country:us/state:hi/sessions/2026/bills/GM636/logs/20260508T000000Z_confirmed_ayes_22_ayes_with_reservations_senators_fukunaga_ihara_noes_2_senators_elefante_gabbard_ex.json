@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Confirmed. Ayes, 22. Aye(s) with reservations: Senator(s) Fukunaga, Ihara.  Noes, 2 (Senator(s) Elefante, Gabbard). Excused, 1 (Senator(s) San Buenaventura).",
+    "occurred_at": "2026-05-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=636&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM636"
+}

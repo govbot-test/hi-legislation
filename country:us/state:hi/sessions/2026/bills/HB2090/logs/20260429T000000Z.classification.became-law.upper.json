@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Act 007, 04/28/2026 (Gov. Msg. No. 1107).",
+    "occurred_at": "2026-04-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2090&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2090"
+}

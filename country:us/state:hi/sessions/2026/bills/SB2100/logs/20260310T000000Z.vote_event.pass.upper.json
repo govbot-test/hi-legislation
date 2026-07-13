@@ -1,0 +1,56 @@
+{
+  "identifier": "",
+  "motion_text": "Report Adopted; Passed Third Reading, as amended (SD 2).",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-10",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB2100\", \"legislative_session__identifier\": \"2026\"}",
+  "bill_action": null,
+  "bill_identifier": "SB2100",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "DeCoite",
+      "voter_id": "~{\"name\": \"DeCoite\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lamosao",
+      "voter_id": "~{\"name\": \"Lamosao\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Richards",
+      "voter_id": "~{\"name\": \"Richards\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 22
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2100&year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "8#SB2100#2026-03-10#Report Adopted; Passed Third Reading, as amended (SD 2).  Ayes, 22; Aye(s) with reservations: Senator(s) DeCoite, Lamosao, Richards.  Noes, 3 (Senator(s) Awa, DeCorte, Fevella).  Excused, 0 (none).  Transmitted to House."
+}

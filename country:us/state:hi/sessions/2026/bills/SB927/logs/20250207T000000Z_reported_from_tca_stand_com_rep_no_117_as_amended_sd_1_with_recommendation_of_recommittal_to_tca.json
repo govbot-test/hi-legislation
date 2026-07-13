@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from TCA (Stand. Com. Rep. No. 117) as amended (SD 1), with recommendation of recommittal to TCA.",
+    "occurred_at": "2025-02-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=927&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB927"
+}

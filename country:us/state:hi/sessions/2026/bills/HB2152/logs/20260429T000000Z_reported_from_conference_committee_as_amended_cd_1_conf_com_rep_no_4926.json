@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from Conference Committee as amended CD 1 (Conf. Com. Rep. No. 49-26).",
+    "occurred_at": "2026-04-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2152&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2152"
+}

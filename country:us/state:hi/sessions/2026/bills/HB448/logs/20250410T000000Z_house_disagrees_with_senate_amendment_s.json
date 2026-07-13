@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "House disagrees with Senate amendment (s).",
+    "occurred_at": "2025-04-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "amendment-failure"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=448&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB448"
+}

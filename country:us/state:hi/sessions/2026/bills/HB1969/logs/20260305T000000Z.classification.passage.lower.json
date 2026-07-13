@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Third Reading with none voting aye with reservations; Representative(s) Pierick voting no (1) and Representative(s) Perruso excused (1).  Transmitted to Senate.",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1969&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1969"
+}

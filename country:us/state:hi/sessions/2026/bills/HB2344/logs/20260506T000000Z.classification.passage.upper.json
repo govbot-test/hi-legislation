@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Final Reading, as amended (CD 1).  Ayes, 24; Aye(s) with reservations: Senator(s) Fukunaga.  Noes, 1 (Senator(s) Elefante).  Excused, 0 (none).",
+    "occurred_at": "2026-05-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2344&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2344"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Bill scheduled for decision making on Thursday, 03-19-26 9:00AM in conference room 411 VIA VIDEOCONFERENCE.",
+    "occurred_at": "2026-03-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3247&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3247"
+}

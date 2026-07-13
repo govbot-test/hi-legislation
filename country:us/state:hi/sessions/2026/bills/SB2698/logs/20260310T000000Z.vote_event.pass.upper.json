@@ -1,0 +1,56 @@
+{
+  "identifier": "",
+  "motion_text": "Report Adopted; Passed Third Reading, as amended (SD 2).",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-10",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB2698\", \"legislative_session__identifier\": \"2026\"}",
+  "bill_action": null,
+  "bill_identifier": "SB2698",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "DeCoite",
+      "voter_id": "~{\"name\": \"DeCoite\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Elefante",
+      "voter_id": "~{\"name\": \"Elefante\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "San Buenaventura",
+      "voter_id": "~{\"name\": \"San Buenaventura\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 25
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2698&year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "20#SB2698#2026-03-10#Report Adopted; Passed Third Reading, as amended (SD 2).  Ayes, 25; Aye(s) with reservations: Senator(s) DeCoite, Elefante, San Buenaventura.  Noes, 0 (none).  Excused, 0 (none).  Transmitted to House."
+}

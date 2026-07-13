@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Resolution scheduled to be heard by LAB on Tuesday, 03-31-26 9:30AM in conference room 309 VIA VIDEOCONFERENCE.",
+    "occurred_at": "2026-03-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HR&billnumber=92&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR92"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Conferees Appointed: Takayama, Grandinetti Co-Chairs; Keohokapu-Lee Loy, Alcos.",
+    "occurred_at": "2026-04-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2314&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2314"
+}

@@ -1,0 +1,41 @@
+{
+  "action": {
+    "description": "Referred to PBS/HSH, CPC, FIN, referral sheet 2",
+    "occurred_at": "2025-01-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Public Safety",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Human Services & Homelessness",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Consumer Protection & Commerce",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Finance",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=676&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB676"
+}

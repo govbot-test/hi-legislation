@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on  EDU recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in EDU were as follows: 3 Aye(s): Senator(s) Kim, Hashimoto, DeCorte; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) Kidani, Fukunaga.",
+    "occurred_at": "2026-03-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2339&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2339"
+}

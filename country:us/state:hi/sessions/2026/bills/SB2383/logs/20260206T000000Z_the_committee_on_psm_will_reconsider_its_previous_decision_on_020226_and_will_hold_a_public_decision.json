@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee on PSM will reconsider its previous decision on 02-02-26 and will hold a public decision making on 02-09-26 3:01PM; Conference Room 016 & Videoconference.",
+    "occurred_at": "2026-02-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2383&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2383"
+}

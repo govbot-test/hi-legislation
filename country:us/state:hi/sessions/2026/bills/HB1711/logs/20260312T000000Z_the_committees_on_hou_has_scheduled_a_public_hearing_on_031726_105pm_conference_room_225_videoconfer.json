@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee(s) on HOU has scheduled a public hearing on 03-17-26 1:05PM; Conference Room 225 & Videoconference.",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1711&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1711"
+}

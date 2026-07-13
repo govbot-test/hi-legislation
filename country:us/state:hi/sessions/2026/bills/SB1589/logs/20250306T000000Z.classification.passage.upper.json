@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Third Reading, as amended (SD 3). Ayes, 22; Aye(s) with reservations: none .  Noes, 2 (Senator(s) Awa, DeCorte). Excused, 1 (Senator(s) Lee, C.).  Transmitted to House.",
+    "occurred_at": "2025-03-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1589&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1589"
+}

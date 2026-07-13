@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Adopted with Representative(s) Reyes Oda voting aye with reservations; Representative(s) Alcos, Garcia, Gedeon, Matsumoto, Muraoka, Pierick, Shimizu voting no (7) and  Representative(s) Todd excused (1).",
+    "occurred_at": "2026-04-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=99&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR99"
+}

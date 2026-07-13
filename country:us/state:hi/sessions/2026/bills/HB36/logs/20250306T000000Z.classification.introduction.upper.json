@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Received from House (Hse. Com. No. 180).",
+    "occurred_at": "2025-03-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=36&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB36"
+}

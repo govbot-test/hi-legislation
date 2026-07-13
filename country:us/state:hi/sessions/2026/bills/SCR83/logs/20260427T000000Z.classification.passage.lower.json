@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Adopted with Representative(s) Alcos, Garcia, Gedeon, Iwamoto, Shimizu voting aye with reservations; Representative(s) Muraoka, Reyes Oda voting no (2) and  none excused (0).",
+    "occurred_at": "2026-04-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=83&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR83"
+}

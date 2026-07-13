@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Third Reading with none voting aye with reservations; Representative(s) Alcos, Garcia, Kila, Kong, Matsumoto, Muraoka, Reyes Oda, Shimizu, Souza voting no (9) and Representative(s) Kapela, Pierick, Ward excused (3).  Transmitted to Senate.",
+    "occurred_at": "2025-03-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=893&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB893"
+}

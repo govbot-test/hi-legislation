@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee on FIN recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 11 Ayes: Representative(s) Todd, Takenouchi, Hartsfield, Kusch, Lee, M., Miyake, Morikawa, Perruso, Templo, Gedeon, Reyes Oda; Ayes with reservations: none;  Noes: none; and 5 Excused: Representative(s) Hussey, Keohokapu-Lee Loy, Kitagawa, Yamashita, Alcos.",
+    "occurred_at": "2026-02-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2488&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2488"
+}

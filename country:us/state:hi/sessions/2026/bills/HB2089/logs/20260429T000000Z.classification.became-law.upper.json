@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Act 006, 04/28/2026 (Gov. Msg. No. 1106).",
+    "occurred_at": "2026-04-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2089&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2089"
+}

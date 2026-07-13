@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "Referred to PBS, HLT, referral sheet 28",
+    "occurred_at": "2026-04-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Public Safety",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Health",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=59&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR59"
+}

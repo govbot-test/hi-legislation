@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Conferees Appointed: Wakai Chair; McKelvey, DeCoite Co-Chairs; Fevella.",
+    "occurred_at": "2025-04-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=344&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB344"
+}

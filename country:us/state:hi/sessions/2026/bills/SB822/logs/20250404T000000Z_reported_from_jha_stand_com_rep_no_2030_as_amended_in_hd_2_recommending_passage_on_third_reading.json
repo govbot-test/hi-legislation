@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from JHA (Stand. Com. Rep. No. 2030) as amended in HD 2, recommending passage on Third Reading.",
+    "occurred_at": "2025-04-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=822&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB822"
+}

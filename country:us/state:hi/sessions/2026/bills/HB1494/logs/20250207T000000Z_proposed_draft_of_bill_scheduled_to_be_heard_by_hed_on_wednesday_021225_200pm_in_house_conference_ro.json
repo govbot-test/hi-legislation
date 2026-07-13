@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Proposed draft of Bill scheduled to be heard by HED on Wednesday, 02-12-25 2:00PM in House conference room 309 VIA VIDEOCONFERENCE.\r\nCopy of proposed draft available at www.capitol.hawaii.gov.",
+    "occurred_at": "2025-02-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1494&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1494"
+}

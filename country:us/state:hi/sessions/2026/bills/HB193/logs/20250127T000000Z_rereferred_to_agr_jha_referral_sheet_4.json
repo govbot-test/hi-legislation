@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "Re-referred to AGR, JHA, referral sheet 4",
+    "occurred_at": "2025-01-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Agriculture & Food Systems",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Judiciary & Hawaiian Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=193&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB193"
+}

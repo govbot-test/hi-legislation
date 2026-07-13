@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from EDT (Stand. Com. Rep. No. 3850) with recommendation to Advise and Consent.",
+    "occurred_at": "2026-04-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=613&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM613"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Received notice of House reconsideration of action in disagreeing to the amendments proposed by the Senate (Hse. Com. No. 822).",
+    "occurred_at": "2026-04-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2296&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2296"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee(s) on AEN has scheduled a public hearing on 01-29-25 1:00PM; Conference Room 224 & Videoconference.",
+    "occurred_at": "2025-01-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=724&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB724"
+}

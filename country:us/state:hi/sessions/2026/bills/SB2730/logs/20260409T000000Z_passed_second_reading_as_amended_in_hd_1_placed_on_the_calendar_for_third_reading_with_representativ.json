@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Passed Second Reading as amended in HD 1; placed on the calendar for Third Reading with Representative(s) Kila, Matsumoto, Reyes Oda, Souza voting aye with reservations; Representative(s) Alcos, Garcia, Gedeon, Kong, Muraoka, Pierick, Shimizu voting no (7) and Representative(s) Cochran excused (1).",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2730&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2730"
+}

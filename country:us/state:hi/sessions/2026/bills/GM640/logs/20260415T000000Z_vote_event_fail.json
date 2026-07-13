@@ -1,0 +1,74 @@
+{
+  "identifier": "",
+  "motion_text": "The recommendation of the committee(s) on WLA is to ADVISE AND CONSENT to the nomination(s).",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-15",
+  "result": "fail",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"GM640\", \"legislative_session__identifier\": \"2026\"}",
+  "bill_action": null,
+  "bill_identifier": "GM640",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Lee",
+      "voter_id": "~{\"name\": \"Lee\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "C",
+      "voter_id": "~{\"name\": \"C\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Inouye",
+      "voter_id": "~{\"name\": \"Inouye\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chang",
+      "voter_id": "~{\"name\": \"Chang\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Lamosao",
+      "voter_id": "~{\"name\": \"Lamosao\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "DeCorte",
+      "voter_id": "~{\"name\": \"DeCorte\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 5
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=640&year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "3#GM640#2026-04-15#The recommendation of the committee(s) on WLA is to ADVISE AND CONSENT to the nomination(s).  The votes in WLA were as follows: 5 Aye(s): Senator(s) Lee, C., Inouye, Chang, Lamosao, DeCorte; Aye(s) with reservations: none ; 0 No(es): none; and 0 Excused: none."
+}

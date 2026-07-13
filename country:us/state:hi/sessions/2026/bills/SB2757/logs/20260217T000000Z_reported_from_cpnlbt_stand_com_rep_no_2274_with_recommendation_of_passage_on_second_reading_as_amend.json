@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from CPN/LBT (Stand. Com. Rep. No. 2274) with recommendation of passage on Second Reading, as amended (SD 1) and referral to WAM/JDC.",
+    "occurred_at": "2026-02-17",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2757&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2757"
+}

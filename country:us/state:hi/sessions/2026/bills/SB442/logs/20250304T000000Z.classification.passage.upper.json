@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Third Reading, as amended (SD 1).  Ayes, 24; Aye(s) with reservations: Senator(s) Keohokalole.  Noes, 0 (none).  Excused, 1 (Senator(s) Chang).  Transmitted to House.",
+    "occurred_at": "2025-03-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=442&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB442"
+}

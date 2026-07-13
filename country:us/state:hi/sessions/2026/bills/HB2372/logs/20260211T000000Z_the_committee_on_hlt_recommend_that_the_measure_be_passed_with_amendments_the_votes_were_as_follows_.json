@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee on HLT recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 8 Ayes: Representative(s) Takayama, Keohokapu-Lee Loy, Marten, Olds, Takenouchi, Alcos; Ayes with reservations: Representative(s) Hartsfield, Garcia; 1 Noes: Representative(s) Amato; and  Excused: none.",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2372&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2372"
+}

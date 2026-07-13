@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Received.",
+    "occurred_at": "2026-03-31",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=798&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM798"
+}

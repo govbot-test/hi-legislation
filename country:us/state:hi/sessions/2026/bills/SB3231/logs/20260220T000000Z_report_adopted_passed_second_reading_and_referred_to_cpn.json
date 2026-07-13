@@ -1,0 +1,27 @@
+{
+  "action": {
+    "description": "Report adopted; Passed Second Reading and referred to CPN.",
+    "occurred_at": "2026-02-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Commerce and Consumer Protection",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3231&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3231"
+}

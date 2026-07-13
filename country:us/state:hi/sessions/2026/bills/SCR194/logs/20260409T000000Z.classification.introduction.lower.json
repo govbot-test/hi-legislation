@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Received from Senate (Sen. Com. No. 505) in amended form (SD 1).",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=194&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR194"
+}

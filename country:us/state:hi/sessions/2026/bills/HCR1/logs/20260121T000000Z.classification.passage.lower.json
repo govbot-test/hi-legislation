@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Adopted with none voting aye with reservations; none voting no (0) and Representative(s) Woodson excused (1).",
+    "occurred_at": "2026-01-21",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HCR&billnumber=1&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR1"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee(s) on HHS added the measure to the public hearing scheduled on 02-13-26 1:00PM; CR 225 & Videoconference.",
+    "occurred_at": "2026-02-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3302&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3302"
+}

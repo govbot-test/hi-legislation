@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed First Reading.",
+    "occurred_at": "2025-01-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=856&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB856"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Nominee(s) Nancy Carr Smith withdrawn by Governor. (Gov. Msg. No. 813)",
+    "occurred_at": "2026-04-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=765&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM765"
+}

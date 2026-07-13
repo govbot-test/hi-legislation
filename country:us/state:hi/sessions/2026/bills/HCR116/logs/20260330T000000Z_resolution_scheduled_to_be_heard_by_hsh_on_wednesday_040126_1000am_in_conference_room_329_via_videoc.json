@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Resolution scheduled to be heard by HSH on Wednesday, 04-01-26 10:00AM in conference room 329 VIA VIDEOCONFERENCE.",
+    "occurred_at": "2026-03-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HCR&billnumber=116&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR116"
+}

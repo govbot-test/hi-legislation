@@ -1,0 +1,36 @@
+{
+  "action": {
+    "description": "Referred to WLA/AEN, JDC.",
+    "occurred_at": "2026-01-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Water, Land, Culture and the Arts",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Agriculture and Environment",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3014&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3014"
+}

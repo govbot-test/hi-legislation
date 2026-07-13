@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Report and Resolution Adopted.  Aye(s) with reservations: none. Noes, 4 (Senator(s) Inouye, Keohokalole, McKelvey, San Buenaventura). Transmitted to House.",
+    "occurred_at": "2026-04-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=71&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR71"
+}

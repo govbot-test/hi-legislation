@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Resolution scheduled to be heard by PBS on Wednesday, 04-15-26 10:30AM in conference room 411 VIA VIDEOCONFERENCE.",
+    "occurred_at": "2026-04-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=182&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR182"
+}

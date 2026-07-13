@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from WLA (Stand. Com. Rep. No. 3888) with recommendation to Advise and Consent.",
+    "occurred_at": "2026-04-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=683&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM683"
+}

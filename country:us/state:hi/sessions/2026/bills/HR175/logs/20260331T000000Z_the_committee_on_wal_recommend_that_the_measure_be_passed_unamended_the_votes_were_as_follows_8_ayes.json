@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee on WAL recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 8 Ayes: Representative(s) Hashem, Morikawa, Belatti, Ichiyama, Iwamoto, Poepoe, Woodson, Souza; Ayes with reservations: none; 1 Noes: Representative(s) Shimizu; and  Excused: none.",
+    "occurred_at": "2026-03-31",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HR&billnumber=175&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR175"
+}

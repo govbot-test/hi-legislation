@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee(s) on AEN has rescheduled its public hearing to 02-13-26 3:10PM; CR 224 & Videoconference.",
+    "occurred_at": "2026-02-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3012&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3012"
+}

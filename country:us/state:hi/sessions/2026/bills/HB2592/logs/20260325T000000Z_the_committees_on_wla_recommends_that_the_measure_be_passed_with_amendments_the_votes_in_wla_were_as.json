@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on  WLA recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in WLA were as follows: 2 Aye(s): Senator(s) Lee, C., Lamosao; Aye(s) with reservations: none ; 1 No(es): Senator(s) DeCorte; and 2 Excused: Senator(s) Inouye, Chang.",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2592&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2592"
+}

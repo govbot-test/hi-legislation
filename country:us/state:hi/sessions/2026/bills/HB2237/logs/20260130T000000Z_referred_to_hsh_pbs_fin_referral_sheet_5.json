@@ -1,0 +1,36 @@
+{
+  "action": {
+    "description": "Referred to HSH, PBS, FIN, referral sheet 5",
+    "occurred_at": "2026-01-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Human Services & Homelessness",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Public Safety",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Finance",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2237&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2237"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from HHS (Stand. Com. Rep. No. 3956) with recommendation to Advise and Consent.",
+    "occurred_at": "2026-04-29",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=543&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM543"
+}

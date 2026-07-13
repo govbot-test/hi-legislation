@@ -1,0 +1,37 @@
+{
+  "identifier": "",
+  "motion_text": "Report adopted; Passed Third Reading, as amended (SD  2).",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-10",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB2811\", \"legislative_session__identifier\": \"2026\"}",
+  "bill_action": null,
+  "bill_identifier": "SB2811",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 25
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2811&year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "14#SB2811#2026-03-10#Report adopted; Passed Third Reading, as amended (SD  2). Ayes, 25; Aye(s) with reservations: none .  Noes, 0 (none). Excused, 0 (none).  Transmitted to House."
+}

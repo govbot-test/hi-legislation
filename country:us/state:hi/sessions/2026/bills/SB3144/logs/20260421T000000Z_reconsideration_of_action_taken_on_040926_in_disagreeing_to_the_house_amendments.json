@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reconsideration of action taken on 04-09-26 in disagreeing to the House amendments.",
+    "occurred_at": "2026-04-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3144&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3144"
+}

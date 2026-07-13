@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Report and Resolution Adopted.",
+    "occurred_at": "2026-04-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SR&billnumber=47&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR47"
+}

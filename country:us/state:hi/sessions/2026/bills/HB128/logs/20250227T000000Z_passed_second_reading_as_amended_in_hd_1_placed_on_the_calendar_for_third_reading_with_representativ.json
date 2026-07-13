@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Passed Second Reading as amended in HD 1; placed on the calendar for Third Reading with Representative(s) Alcos, Amato, Souza voting aye with reservations; Representative(s) Garcia, Matsumoto, Muraoka, Reyes Oda, Shimizu voting no (5) and Representative(s) Cochran, Pierick, Templo, Ward excused (4).",
+    "occurred_at": "2025-02-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=128&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB128"
+}

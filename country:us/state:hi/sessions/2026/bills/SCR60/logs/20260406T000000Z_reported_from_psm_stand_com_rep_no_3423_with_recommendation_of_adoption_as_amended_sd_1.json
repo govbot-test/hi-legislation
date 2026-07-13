@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from PSM (Stand. Com. Rep. No. 3423) with recommendation of adoption, as amended (SD 1).",
+    "occurred_at": "2026-04-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=60&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR60"
+}

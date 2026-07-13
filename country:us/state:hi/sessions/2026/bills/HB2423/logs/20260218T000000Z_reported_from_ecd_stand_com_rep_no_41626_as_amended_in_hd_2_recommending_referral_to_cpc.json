@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from ECD (Stand. Com. Rep. No. 416-26) as amended in HD 2, recommending referral to CPC.",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2423&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2423"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Third Reading with Representative(s) Amato, Cochran, Gedeon, Shimizu, Souza voting aye with reservations; Representative(s) Alcos, Garcia, Iwamoto, Matsumoto, Muraoka, Reyes Oda voting no (6) and Representative(s) Quinlan excused (1).  Transmitted to Senate.",
+    "occurred_at": "2026-04-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2698&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2698"
+}

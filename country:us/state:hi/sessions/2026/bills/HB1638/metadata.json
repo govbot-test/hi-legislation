@@ -1,0 +1,136 @@
+{
+  "legislative_session": "2026",
+  "identifier": "HB1638",
+  "title": "RELATING TO PROPERTY DAMAGES.",
+  "from_organization": "~{\"classification\": \"lower\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Actual Damages",
+    "Aggregate Liability Limit",
+    "Covered Catastrophic Wildfires",
+    "Economic Damages",
+    "Electric Utilities",
+    "Right to Subrogation",
+    "Statute of Limitation"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Limits claims alleging property damage from covered catastrophic wildfires to actual damages.  Amends the aggregate liability limit for qualifying damages from covered catastrophic wildfires to be $1,000,000,000, rather than administratively established by the Public Utilities Commission, and makes the limit applicable only to property covered by a property insurance policy up to the coverage limit.  Requires the Director of Emergency Management to determine whether a wildfire is a covered catastrophic wildfire.  Specifies that claims subject to the limit must be filed within one year of the covered catastrophic wildfire.  Clarifies that a property and casualty insurer's rights to subrogation are not limited in the context of an insured's recovery by judgment or settlement of a third-party tort claim."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-hb1638"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Referred to EEP, CPC/JHA, FIN, referral sheet 1",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Energy & Environmental Protection",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Consumer Protection & Commerce",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary & Hawaiian Affairs",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Finance",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:04Z"
+      }
+    },
+    {
+      "description": "Introduced and Pass First Reading.",
+      "date": "2026-01-21",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "introduction",
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:04Z"
+      }
+    },
+    {
+      "description": "Prefiled.",
+      "date": "2026-01-20",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:04Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "MATAYOSHI",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"MATAYOSHI\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "HB1638",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HB1638_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/HB1638_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1638&year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "EEP, CPC/JHA, FIN"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:04Z"
+  }
+}

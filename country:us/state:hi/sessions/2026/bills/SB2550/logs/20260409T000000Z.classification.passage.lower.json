@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Third Reading with none voting aye with reservations; Representative(s) Perruso voting no (1) and Representative(s) Cochran excused (1).  Transmitted to Senate.",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2550&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2550"
+}

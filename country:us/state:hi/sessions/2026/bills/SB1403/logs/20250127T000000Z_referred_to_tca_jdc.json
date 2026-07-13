@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Referred to TCA, JDC.",
+    "occurred_at": "2025-01-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1403&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1403"
+}

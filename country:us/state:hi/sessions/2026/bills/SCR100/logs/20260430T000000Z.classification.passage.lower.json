@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Adopted with none voting aye with reservations; Representative(s) Alcos, Cochran, Garcia, Gedeon, Matsumoto, Muraoka, Shimizu voting no (7) and none excused (0).",
+    "occurred_at": "2026-04-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=100&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR100"
+}

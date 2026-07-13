@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Third Reading. Ayes, 19; Aye(s) with reservations: none.  Noes, 3 (Senator(s) Awa, DeCorte, Fevella).  Excused, 3 (Senator(s) Gabbard, Kouchi, Richards).  Transmitted to House.",
+    "occurred_at": "2025-02-19",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=780&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB780"
+}

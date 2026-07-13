@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Conferees Appointed: Rhoads Chair; Moriwaki Co-Chair; Awa.",
+    "occurred_at": "2026-04-20",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2095&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2095"
+}

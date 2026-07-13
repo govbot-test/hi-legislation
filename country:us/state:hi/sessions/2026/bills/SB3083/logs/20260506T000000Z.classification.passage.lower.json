@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Final Reading as amended in CD 1 with none voting aye with reservations; none voting no (0) and none excused (0).",
+    "occurred_at": "2026-05-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3083&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3083"
+}

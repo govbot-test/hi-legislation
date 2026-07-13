@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The recommendation of the committee(s) on HHS is to ADVISE AND CONSENT to the nomination(s).  The votes in HHS were as follows: 4 Aye(s): Senator(s) San Buenaventura, Kanuha, Keohokalole, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) McKelvey.",
+    "occurred_at": "2026-04-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=673&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM673"
+}

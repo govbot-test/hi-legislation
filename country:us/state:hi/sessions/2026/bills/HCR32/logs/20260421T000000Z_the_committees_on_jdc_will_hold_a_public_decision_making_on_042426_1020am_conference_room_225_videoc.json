@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee(s) on JDC will hold a public decision making on 04-24-26 10:20AM; Conference Room 225 & Videoconference.",
+    "occurred_at": "2026-04-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HCR&billnumber=32&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR32"
+}

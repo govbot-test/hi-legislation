@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Third Reading with Representative(s) Amato, Gedeon, Hashem, Iwamoto, Matayoshi, Morikawa, Reyes Oda, Sayama, Shimizu, Tarnas, Yamashita voting aye with reservations; Representative(s) Alcos, Garcia, Hartsfield, Lee, M., Matsumoto, Muraoka, Pierick, Takayama voting no (8) and none excused (0).  Transmitted to Senate.",
+    "occurred_at": "2026-03-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2101&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2101"
+}

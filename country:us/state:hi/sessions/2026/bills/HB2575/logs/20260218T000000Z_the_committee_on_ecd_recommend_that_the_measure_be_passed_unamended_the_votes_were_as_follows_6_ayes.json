@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee on ECD recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 6 Ayes: Representative(s) Ilagan, Hussey, Tam, Templo, Yamashita; Ayes with reservations: Representative(s) Gedeon;  Noes: none; and  Excused: none.",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2575&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2575"
+}

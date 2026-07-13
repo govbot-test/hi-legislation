@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Bill re-scheduled to be heard by HSH on Tuesday, 02-11-25 9:45AM in conference room 329 VIA VIDEOCONFERENCE.",
+    "occurred_at": "2025-02-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=383&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB383"
+}

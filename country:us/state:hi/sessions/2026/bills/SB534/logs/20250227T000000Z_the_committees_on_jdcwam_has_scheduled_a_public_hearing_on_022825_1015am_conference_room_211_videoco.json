@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee(s) on JDC/WAM has scheduled a public hearing on 02-28-25 10:15AM; Conference Room 211 & Videoconference (Proposed Draft).",
+    "occurred_at": "2025-02-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=534&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB534"
+}

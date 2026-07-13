@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Third Reading with Representative(s) Muraoka, Reyes Oda voting aye with reservations; Representative(s) Alcos, Garcia, Gedeon, Kong, Matsumoto, Pierick, Shimizu voting no (7) and Representative(s) Perruso, Quinlan, Sayama excused (3).  Transmitted to Senate.",
+    "occurred_at": "2026-03-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1452&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1452"
+}

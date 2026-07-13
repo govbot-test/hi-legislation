@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Report adopted; referred to the committee(s) on CPC as amended in HD 2 with none voting aye with reservations; Representative(s) Garcia, Pierick voting no (2) and none excused (0).",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1619&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1619"
+}

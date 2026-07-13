@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Notice of bill proposing constitutional amendment transmitted to Governor pursuant to Article XVII, Section 3 (Sen. Com. No. 1).",
+    "occurred_at": "2025-03-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=124&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB124"
+}

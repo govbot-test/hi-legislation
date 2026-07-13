@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee on TRN recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 9 Ayes: Representative(s) Kila, Miyake, Cochran, Evslin, Grandinetti, Kitagawa, La Chica, Muraoka, Pierick; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none.",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2026&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2026"
+}

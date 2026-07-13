@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Received notice of Final Reading (Sen. Com. No. 814).",
+    "occurred_at": "2026-05-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1737&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1737"
+}

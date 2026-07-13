@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee on LAB recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 5 Ayes: Representative(s) Sayama, Lee, M., Garrett, Kapela, Kong; Ayes with reservations: none; 0 Noes: none; and 1 Excused: Representative(s) Reyes Oda.",
+    "occurred_at": "2025-03-11",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=828&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB828"
+}

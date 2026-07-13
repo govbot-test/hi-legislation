@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The recommendation of the committee(s) on JDC is to CONSENT to the nomination.  The votes in JDC were as follows: 3 Aye(s): Senator(s) Gabbard, Chang, Awa; Aye(s) with reservations: none ; 2 No(es): Senator(s) Rhoads, San Buenaventura; and 0 Excused: none.",
+    "occurred_at": "2026-04-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=801&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM801"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Re-Referred to TRS/EIG, WAM/JDC.",
+    "occurred_at": "2026-01-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1644&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1644"
+}

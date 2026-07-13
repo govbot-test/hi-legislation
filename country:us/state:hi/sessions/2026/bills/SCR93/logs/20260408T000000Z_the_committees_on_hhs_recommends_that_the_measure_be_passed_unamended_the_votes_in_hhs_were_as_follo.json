@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on HHS recommend(s) that the measure be PASSED, UNAMENDED.  The votes in HHS were as follows: 3 Aye(s): Senator(s) San Buenaventura, Kanuha, Fevella; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) McKelvey, Keohokalole.",
+    "occurred_at": "2026-04-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=93&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR93"
+}

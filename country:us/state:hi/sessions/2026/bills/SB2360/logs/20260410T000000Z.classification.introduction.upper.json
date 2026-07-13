@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Received from House (Hse. Com. No. 507).",
+    "occurred_at": "2026-04-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2360&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2360"
+}

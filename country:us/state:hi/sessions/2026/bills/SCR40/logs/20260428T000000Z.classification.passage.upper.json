@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Resolution adopted in final form.",
+    "occurred_at": "2026-04-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=40&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR40"
+}

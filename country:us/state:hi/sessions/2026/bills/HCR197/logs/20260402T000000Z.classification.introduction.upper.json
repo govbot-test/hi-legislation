@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Received from House (Hse. Com. No. 456).",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HCR&billnumber=197&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR197"
+}

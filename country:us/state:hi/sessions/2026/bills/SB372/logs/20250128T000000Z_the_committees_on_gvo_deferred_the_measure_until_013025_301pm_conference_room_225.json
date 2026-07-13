@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on GVO deferred the measure until 01-30-25 3:01PM; Conference Room 225.",
+    "occurred_at": "2025-01-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=372&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB372"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Passed Second Reading as amended in HD 1; placed on the calendar for Third Reading with none voting aye with reservations; none voting no (0) and Representative(s) Hashem, Perruso, Quinlan, Sayama excused (4).",
+    "occurred_at": "2026-03-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2329&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2329"
+}

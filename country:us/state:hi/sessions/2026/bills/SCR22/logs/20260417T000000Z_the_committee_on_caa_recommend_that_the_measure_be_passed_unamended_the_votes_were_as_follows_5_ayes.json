@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee on CAA recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 5 Ayes: Representative(s) Kapela, Kong, Lee, M., Sayama, Reyes Oda; Ayes with reservations: none;  Noes: none; and 1 Excused: Representative(s) Garrett.",
+    "occurred_at": "2026-04-17",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=22&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR22"
+}

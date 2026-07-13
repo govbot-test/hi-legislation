@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee on CPC recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 7 Ayes: Representative(s) Matayoshi, Chun, Ichiyama, Iwamoto, Kong, Lowen, Tam; Ayes with reservations: none; 1 Noes: Representative(s) Pierick; and 2 Excused: Representative(s) Ilagan, Marten.",
+    "occurred_at": "2025-03-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=191&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB191"
+}

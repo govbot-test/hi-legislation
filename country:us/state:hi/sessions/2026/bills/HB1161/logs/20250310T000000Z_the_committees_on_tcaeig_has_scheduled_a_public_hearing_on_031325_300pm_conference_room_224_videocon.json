@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee(s) on TCA/EIG has scheduled a public hearing on 03-13-25 3:00PM; Conference Room 224 & Videoconference.",
+    "occurred_at": "2025-03-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1161&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1161"
+}

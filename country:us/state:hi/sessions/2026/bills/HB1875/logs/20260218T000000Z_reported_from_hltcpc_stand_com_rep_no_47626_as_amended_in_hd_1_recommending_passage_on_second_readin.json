@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from HLT/CPC (Stand. Com. Rep. No. 476-26) as amended in HD 1, recommending passage on Second Reading and referral to JHA.",
+    "occurred_at": "2026-02-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1875&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1875"
+}

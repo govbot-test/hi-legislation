@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Received from House (Hse. Com. No. 570).",
+    "occurred_at": "2025-04-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "introduction",
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=109&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB109"
+}

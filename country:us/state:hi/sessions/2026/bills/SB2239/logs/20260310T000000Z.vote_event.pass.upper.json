@@ -1,0 +1,50 @@
+{
+  "identifier": "",
+  "motion_text": "Passed Third Reading, as amended (SD 1).",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-10",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB2239\", \"legislative_session__identifier\": \"2026\"}",
+  "bill_action": null,
+  "bill_identifier": "SB2239",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "McKelvey",
+      "voter_id": "~{\"name\": \"McKelvey\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Senator(s",
+      "voter_id": "~{\"name\": \"Senator(s\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 24
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 1
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2239&year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "38#SB2239#2026-03-10#Passed Third Reading, as amended (SD 1). Ayes, 24; Aye(s) with reservations: Senator(s) McKelvey .  Noes, 0 (none). Excused, 1 (Senator(s) Lee, C.).  Transmitted to House."
+}

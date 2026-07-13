@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Act 139, 06/24/2026 (Gov. Msg. No. 1240).",
+    "occurred_at": "2026-06-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2613&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2613"
+}

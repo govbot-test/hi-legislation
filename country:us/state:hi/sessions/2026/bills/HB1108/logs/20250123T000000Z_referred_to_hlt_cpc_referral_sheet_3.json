@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "Referred to HLT, CPC, referral sheet 3",
+    "occurred_at": "2025-01-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Health",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Consumer Protection & Commerce",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1108&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1108"
+}

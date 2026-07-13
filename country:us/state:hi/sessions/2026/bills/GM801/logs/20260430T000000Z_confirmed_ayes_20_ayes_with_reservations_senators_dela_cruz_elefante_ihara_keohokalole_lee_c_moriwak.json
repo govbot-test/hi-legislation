@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Confirmed. Ayes, 20. Aye(s) with reservations: Senator(s) Dela Cruz, Elefante, Ihara, Keohokalole, Lee, C., Moriwaki.  Noes, 5 (Senator(s) Fukunaga, Inouye, Kidani, Rhoads, San Buenaventura). Excused, 0 (none).",
+    "occurred_at": "2026-04-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=801&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM801"
+}

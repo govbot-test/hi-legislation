@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Resolution scheduled to be heard by FIN on Wednesday, 04-08-26 1:55PM in conference room 308 VIA VIDEOCONFERENCE.",
+    "occurred_at": "2026-04-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HR&billnumber=85&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR85"
+}

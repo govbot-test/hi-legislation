@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee(s) on WLA has scheduled a public hearing on 04-08-26 1:05PM; Conference Room 224 & Videoconference.",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=170&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR170"
+}

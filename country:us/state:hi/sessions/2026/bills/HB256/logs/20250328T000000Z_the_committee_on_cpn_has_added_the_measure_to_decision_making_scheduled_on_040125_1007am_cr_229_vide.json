@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee on CPN has added the measure to decision making scheduled on 04-01-25 10:07AM; CR 229 & Videoconference.",
+    "occurred_at": "2025-03-28",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=256&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB256"
+}

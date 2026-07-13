@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Forty-eight (48) hours notice Tuesday,  04-14-26.",
+    "occurred_at": "2026-04-09",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2667&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2667"
+}

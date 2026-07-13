@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on HHS deferred the measure until 04-16-26 3:21PM; Conference Room 225 & Videoconference.",
+    "occurred_at": "2026-04-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=567&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM567"
+}

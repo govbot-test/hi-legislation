@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on WLA deferred the measure until 02-13-26 1:00PM; Conference Room 224 & Videoconference.",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2306&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2306"
+}

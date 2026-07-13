@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on FIN recommend(s) that the measure be deferred until 04-07-26.",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2407&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2407"
+}

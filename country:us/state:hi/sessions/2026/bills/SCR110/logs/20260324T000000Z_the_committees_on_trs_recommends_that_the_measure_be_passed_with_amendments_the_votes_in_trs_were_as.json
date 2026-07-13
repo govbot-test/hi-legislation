@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on  TRS recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in TRS were as follows: 3 Aye(s): Senator(s) Inouye, Kanuha, DeCorte; Aye(s) with reservations: none ; 0 No(es): none; and 2 Excused: Senator(s) Elefante, Lee, C..",
+    "occurred_at": "2026-03-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=110&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR110"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The Conference committee reconsidered its previous decision.",
+    "occurred_at": "2026-05-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1707&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1707"
+}

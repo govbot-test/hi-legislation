@@ -1,0 +1,27 @@
+{
+  "action": {
+    "description": "Passed Second Reading as amended in HD 1 and referred to the committee(s) on LAB with none voting aye with reservations; none voting no (0) and none excused (0).",
+    "occurred_at": "2026-03-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Labor",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3082&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3082"
+}

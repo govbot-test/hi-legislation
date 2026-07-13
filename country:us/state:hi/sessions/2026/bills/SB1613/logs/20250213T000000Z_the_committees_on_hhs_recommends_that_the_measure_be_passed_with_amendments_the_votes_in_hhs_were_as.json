@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on  HHS recommend(s) that the measure be PASSED, WITH AMENDMENTS.  The votes in HHS were as follows: 3 Aye(s): Senator(s) San Buenaventura, Hashimoto; Aye(s) with reservations: Senator(s) Aquino ; 1 No(es): Senator(s) Fevella; and 1 Excused: Senator(s) Keohokalole.",
+    "occurred_at": "2025-02-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1613&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1613"
+}

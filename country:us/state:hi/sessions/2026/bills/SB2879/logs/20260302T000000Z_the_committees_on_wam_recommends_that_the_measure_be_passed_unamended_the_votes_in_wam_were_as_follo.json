@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on WAM recommend(s) that the measure be PASSED, UNAMENDED.  The votes in WAM were as follows: 11 Aye(s): Senator(s) Dela Cruz, Moriwaki, DeCoite, Hashimoto, Kanuha, Kim, Lee, C., Richards, Wakai, Fevella; Aye(s) with reservations: Senator(s) Elefante ; 2 No(es): Senator(s) Inouye, Kidani; and 0 Excused: none.",
+    "occurred_at": "2026-03-02",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2879&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2879"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Report adopted; referred to the committee(s) on JHA with Representative(s) Reyes Oda, Souza voting aye with reservations; Representative(s) Garcia, Gedeon, Matsumoto, Muraoka, Pierick, Shimizu voting no (6) and Representative(s) Cochran, Lowen, Perruso, Quinlan excused (4).",
+    "occurred_at": "2026-03-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3251&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3251"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from JHA (Stand. Com. Rep. No. 909-26) as amended in HD 1, recommending passage on Second Reading and placement on the calendar for Third Reading.",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1768&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1768"
+}

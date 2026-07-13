@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee on HED recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 10 Ayes: Representative(s) Garrett, Amato, Evslin, Kapela, Kila, La Chica, Olds, Woodson, Muraoka, Souza; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none.",
+    "occurred_at": "2026-02-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2005&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2005"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 2 Ayes: Representative(s) Evslin, Miyake; Ayes with reservations: none; 1 Noes: Representative(s) Cochran; and 1 Excused: Representative(s) Ilagan.",
+    "occurred_at": "2026-04-29",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2385&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2385"
+}

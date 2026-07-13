@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Conference Committee Meeting will reconvene on Friday, 05-01-26 at 2:30PM in Conference Room 411.",
+    "occurred_at": "2026-05-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2423&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2423"
+}

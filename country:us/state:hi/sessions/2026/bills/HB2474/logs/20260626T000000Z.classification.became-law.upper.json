@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Act 181, 06/26/2026 (Gov. Msg. No. 1283).",
+    "occurred_at": "2026-06-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2474&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2474"
+}

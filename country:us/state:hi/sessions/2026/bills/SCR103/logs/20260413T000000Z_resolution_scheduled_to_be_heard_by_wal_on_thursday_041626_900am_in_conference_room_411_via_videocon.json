@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Resolution scheduled to be heard by WAL on Thursday, 04-16-26 9:00AM in conference room 411 VIA VIDEOCONFERENCE.",
+    "occurred_at": "2026-04-13",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=103&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR103"
+}

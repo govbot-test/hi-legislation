@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Bill scheduled for Conference Committee Meeting on Wednesday, 04-29-26 11:10AM in conference room 329.",
+    "occurred_at": "2026-04-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2423&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2423"
+}

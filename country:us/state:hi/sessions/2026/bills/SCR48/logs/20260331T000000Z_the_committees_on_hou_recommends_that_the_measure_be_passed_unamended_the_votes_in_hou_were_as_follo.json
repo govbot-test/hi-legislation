@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on HOU recommend(s) that the measure be PASSED, UNAMENDED.  The votes in HOU were as follows: 4 Aye(s): Senator(s) Chang, Hashimoto, Elefante, Rhoads; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Fevella.",
+    "occurred_at": "2026-03-31",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=48&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR48"
+}

@@ -1,0 +1,32 @@
+{
+  "action": {
+    "description": "Passed Second Reading as amended in HD 1 and referred to the committee(s) on JHA/CPC with Representative(s) Chun, Souza, Tam voting aye with reservations; Representative(s) Alcos, Belatti, Cochran, Garcia, Garrett, Gedeon, Grandinetti, Hussey, Kapela, Kila, Lowen, Marten, Matsumoto, Muraoka, Perruso, Pierick, Reyes Oda, Shimizu, Takayama, Templo voting no (20) and none excused (0).",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-2",
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Judiciary & Hawaiian Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Consumer Protection & Commerce",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2570&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2570"
+}

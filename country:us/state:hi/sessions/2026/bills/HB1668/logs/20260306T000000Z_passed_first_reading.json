@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed First Reading.",
+    "occurred_at": "2026-03-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1668&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1668"
+}

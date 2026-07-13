@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 5 Ayes: Representative(s) Ilagan, Grandinetti, Kahaloa, Tam, Gedeon; Ayes with reservations: none; 0 Noes: none; and 0 Excused: none.",
+    "occurred_at": "2026-04-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2475&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2475"
+}

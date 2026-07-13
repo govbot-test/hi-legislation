@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Nominee(s) Kuiokalani Gapero withdrawn by Governor. (Gov. Msg. No. 694)",
+    "occurred_at": "2026-02-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=508&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM508"
+}

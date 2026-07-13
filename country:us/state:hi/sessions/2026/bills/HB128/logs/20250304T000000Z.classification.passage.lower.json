@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Third Reading with Representative(s) Amato, Souza voting aye with reservations; Representative(s) Alcos, Chun, Garcia, Holt, Kila, Kong, Lamosao, Matsumoto, Muraoka, Reyes Oda, Shimizu voting no (11) and Representative(s) Kapela, Pierick, Ward excused (3).  Transmitted to Senate.",
+    "occurred_at": "2025-03-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=128&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB128"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House Conferees Appointed: Ilagan, Matayoshi, Tarnas Co-Chairs; Tam, Gedeon.",
+    "occurred_at": "2026-04-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3001&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3001"
+}

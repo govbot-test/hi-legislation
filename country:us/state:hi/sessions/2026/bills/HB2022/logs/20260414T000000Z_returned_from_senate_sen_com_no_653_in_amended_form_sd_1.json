@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Returned from Senate (Sen. Com. No.  653) in amended form (SD 1).",
+    "occurred_at": "2026-04-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2022&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2022"
+}

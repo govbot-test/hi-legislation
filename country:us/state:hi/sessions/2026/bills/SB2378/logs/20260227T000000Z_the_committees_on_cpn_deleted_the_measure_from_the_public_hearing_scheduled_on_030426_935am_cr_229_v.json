@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee(s) on CPN deleted the measure from the public hearing scheduled on 03-04-26 9:35AM; CR 229 & Videoconference.",
+    "occurred_at": "2026-02-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2378&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2378"
+}

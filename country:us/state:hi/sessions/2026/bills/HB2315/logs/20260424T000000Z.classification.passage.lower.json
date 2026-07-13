@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Final Reading as amended in SD 1 with none voting aye with reservations; none voting no (0) and Representative(s) Kapela excused (1).",
+    "occurred_at": "2026-04-24",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2315&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2315"
+}

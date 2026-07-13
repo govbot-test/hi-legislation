@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on HHS/CPN deferred the measure until 02-12-25 9:34AM; Conference Room 229 & Videoconference.",
+    "occurred_at": "2025-02-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1064&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1064"
+}

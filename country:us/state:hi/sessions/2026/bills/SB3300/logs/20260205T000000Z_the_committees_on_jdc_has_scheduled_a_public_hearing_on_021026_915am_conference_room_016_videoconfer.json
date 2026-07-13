@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee(s) on JDC has scheduled a public hearing on 02-10-26 9:15AM; Conference Room 016 & Videoconference.",
+    "occurred_at": "2026-02-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3300&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3300"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on PBS recommend(s) that the measure be deferred until 03-25-26 11:00AM.",
+    "occurred_at": "2026-03-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2109&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2109"
+}

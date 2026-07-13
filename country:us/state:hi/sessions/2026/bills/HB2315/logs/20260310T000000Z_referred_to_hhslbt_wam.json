@@ -1,0 +1,36 @@
+{
+  "action": {
+    "description": "Referred to HHS/LBT, WAM.",
+    "occurred_at": "2026-03-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Health and Human Services",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Labor and Technology",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2315&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2315"
+}

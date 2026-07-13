@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from EDU (Stand. Com. Rep. No. 3696) with recommendation that the Senate not consent to the nomination.",
+    "occurred_at": "2026-04-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=658&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM658"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from FIN (Stand. Com. Rep. No. 1000-26), recommending passage on Third Reading.",
+    "occurred_at": "2026-03-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2476&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2476"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Received notice of passage on Final Reading in House (Hse. Com. No. 888).",
+    "occurred_at": "2026-05-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1515&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1515"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on AEN deferred the measure until 02-07-25 1:05PM; CR 224.",
+    "occurred_at": "2025-02-05",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=242&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB242"
+}

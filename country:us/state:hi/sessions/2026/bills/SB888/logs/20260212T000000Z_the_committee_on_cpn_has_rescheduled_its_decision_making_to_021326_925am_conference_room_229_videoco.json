@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee on CPN has rescheduled its decision making to 02-13-26 9:25AM; Conference Room 229 & Videoconference.",
+    "occurred_at": "2026-02-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=888&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB888"
+}

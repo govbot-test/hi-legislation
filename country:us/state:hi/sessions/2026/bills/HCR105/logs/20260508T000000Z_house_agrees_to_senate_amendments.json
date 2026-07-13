@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "House agrees to Senate amendment(s).",
+    "occurred_at": "2026-05-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HCR&billnumber=105&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR105"
+}

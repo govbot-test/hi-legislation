@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Bill scheduled for decision making on Monday, 03-02-26 10:00AM in conference room 308 VIA VIDEOCONFERENCE.",
+    "occurred_at": "2026-02-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1991&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1991"
+}

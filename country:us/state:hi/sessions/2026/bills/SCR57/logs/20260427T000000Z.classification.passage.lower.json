@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Adopted with Representative(s) Iwamoto voting aye with reservations; none voting no (0) and  Representative(s) Todd excused (1).",
+    "occurred_at": "2026-04-27",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=57&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR57"
+}

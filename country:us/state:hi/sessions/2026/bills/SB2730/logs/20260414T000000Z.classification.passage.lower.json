@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Third Reading with Representative(s) Souza voting aye with reservations; Representative(s) Alcos, Chun, Cochran, Garcia, Gedeon, Hartsfield, Kila, Kitagawa, Kong, Lee, M., Matayoshi, Matsumoto, Muraoka, Olds, Pierick, Ratcliffe, Shimizu, Takenouchi, Tam, Templo voting no (20) and Representative(s) Quinlan excused (1).  Transmitted to Senate.",
+    "occurred_at": "2026-04-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2730&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2730"
+}

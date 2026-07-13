@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on HHS deferred the measure until 04-08-26 1:00PM; Conference Room 225 & Videoconference.",
+    "occurred_at": "2026-04-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SR&billnumber=88&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR88"
+}

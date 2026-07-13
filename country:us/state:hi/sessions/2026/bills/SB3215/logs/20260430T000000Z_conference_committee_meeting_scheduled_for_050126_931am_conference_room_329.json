@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Conference committee meeting scheduled for 05-01-26 9:31AM; Conference Room 329.",
+    "occurred_at": "2026-04-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3215&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3215"
+}

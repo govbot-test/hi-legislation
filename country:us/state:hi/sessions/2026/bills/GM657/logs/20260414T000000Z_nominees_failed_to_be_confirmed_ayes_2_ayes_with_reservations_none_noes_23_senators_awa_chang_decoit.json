@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Nominee(s) failed to be confirmed.  Ayes, 2. Aye(s) with reservations: none.  Noes, 23 (Senator(s) Awa, Chang, DeCoite, DeCorte, Dela Cruz, Elefante, Fevella, Fukunaga, Gabbard, Hashimoto, Ihara, Inouye, Kanuha, Keohokalole, Kidani, Kouchi, Lamosao, Lee, C., McKelvey, Moriwaki, Richards, San Buenaventura, Wakai).  Excused, 0 (none).",
+    "occurred_at": "2026-04-14",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=657&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM657"
+}

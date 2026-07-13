@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 2 Ayes: Representative(s) Todd, Takenouchi; Ayes with reservations: none; 1 Noes: Representative(s) Gedeon; and 0 Excused: none.",
+    "occurred_at": "2026-04-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3125&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3125"
+}

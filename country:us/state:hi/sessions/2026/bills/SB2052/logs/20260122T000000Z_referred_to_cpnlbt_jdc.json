@@ -1,0 +1,36 @@
+{
+  "action": {
+    "description": "Referred to CPN/LBT, JDC.",
+    "occurred_at": "2026-01-22",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Commerce and Consumer Protection",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Labor and Technology",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Judiciary",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2052&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2052"
+}

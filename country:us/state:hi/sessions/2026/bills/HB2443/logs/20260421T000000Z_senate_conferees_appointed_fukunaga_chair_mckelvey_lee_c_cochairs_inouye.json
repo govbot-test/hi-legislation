@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Conferees Appointed: Fukunaga Chair; McKelvey, Lee, C. Co-Chairs; Inouye.",
+    "occurred_at": "2026-04-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2443&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2443"
+}

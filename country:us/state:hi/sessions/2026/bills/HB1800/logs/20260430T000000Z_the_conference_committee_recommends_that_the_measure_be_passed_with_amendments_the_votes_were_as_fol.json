@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 17 Ayes: Representative(s) Todd, Hartsfield, Hussey, Keohokapu-Lee Loy, Kitagawa, Kusch, Lee, M., Miyake, Morikawa, Perruso, Ratcliffe, Takenouchi, Templo, Yamashita, Reyes Oda; Ayes with reservations: Representative(s) Alcos, Gedeon; 0 Noes: none; and 0 Excused: none.",
+    "occurred_at": "2026-04-30",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1800&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1800"
+}

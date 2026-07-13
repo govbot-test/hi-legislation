@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee(s) on EDT/WLA has scheduled a public hearing on 02-19-26 1:02PM; CR 229 & Videoconference.",
+    "occurred_at": "2026-02-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3085&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3085"
+}

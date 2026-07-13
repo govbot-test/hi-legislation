@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee(s) on PSM deleted the measure from the public hearing scheduled on 03-11-26 3:00PM; CR 016 & Videoconference.",
+    "occurred_at": "2026-03-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=715&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM715"
+}

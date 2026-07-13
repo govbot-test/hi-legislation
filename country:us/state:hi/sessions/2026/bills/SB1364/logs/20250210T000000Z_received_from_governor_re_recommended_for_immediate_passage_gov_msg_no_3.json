@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Received from Governor re: Recommended for Immediate Passage (Gov. Msg. No. 3).",
+    "occurred_at": "2025-02-10",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1364&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1364"
+}

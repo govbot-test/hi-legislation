@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee(s) on PSM has scheduled a public hearing on 03-30-26 3:01PM; CR 016 & Videoconference.",
+    "occurred_at": "2026-03-25",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SR&billnumber=64&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR64"
+}

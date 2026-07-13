@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Passed Second Reading; placed on the calendar for Third Reading with none voting aye with reservations; none voting no (0) and Representative(s) Perruso excused (1).",
+    "occurred_at": "2026-03-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2088&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2088"
+}

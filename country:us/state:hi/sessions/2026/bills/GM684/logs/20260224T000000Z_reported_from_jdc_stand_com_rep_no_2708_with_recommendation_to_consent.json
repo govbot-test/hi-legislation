@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from JDC (Stand. Com. Rep. No. 2708) with recommendation to Consent.",
+    "occurred_at": "2026-02-24",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=684&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM684"
+}

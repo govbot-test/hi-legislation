@@ -1,0 +1,175 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB2763",
+  "title": "RELATING TO STAFFING STANDARDS AT HEALTH CARE FACILITIES.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Appeals",
+    "Appropriations ($)",
+    "Center for Nursing",
+    "Civil Penalties",
+    "DLIR",
+    "Hospital Registered Nurse Staffing Committee",
+    "Hospital Registered Nurse Staffing Plan",
+    "Hospitals",
+    "Nurse-to-Patient Ratio",
+    "Rules"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Requires each hospital to establish a Hospital Registered Nurse Staffing Committee by 9/1/2026.  Requires the Staffing Committee to adopt and file a Staffing Committee Charter with the Department of Labor and Industrial Relations by 1/1/2027.  Requires the Department to develop a Hospital Registered Nurse Staffing Plan Form by 1/1/2027.  Requires each Staffing Committee to adopt and file a Staffing Plan, including minimum registered nurse staffing standards, with the Department by 7/1/2027, and annually thereafter.  Requires hospitals to implement their Staffing Plan by 7/1/2027, and post the Staffing Plan and staffing schedules in publicly accessible areas.  Requires Staffing Committees to receive, review, evaluate, and respond to reports and complaints regarding deviations from the Staffing Plan.  Establishes a variance process allowing hospitals to temporarily deviate from their minimum registered nurse staffing standards.  Establishes an enforcement framework to be administered by the Department, including review of Staffing Plans, complaint investigations, administrative appeals, and civil penalties for violations.  Prohibits retaliation against certain persons who report staffing concerns or participate in enforcement proceedings.  Increases the membership of the Center for Nursing Advisory Board to include three elected officers or governing board members of a labor organization representing registered nurses in the State.  Requires the Center for Nursing to develop and maintain an online dashboard of staffing standards recommended by certain professional specialty organizations.  Requires the Department to adopt rules.  Appropriates funds."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-sb2763"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Re-Referred to HHS/LBT, WAM/CPN.",
+      "date": "2026-02-19",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Re-Referred to HHS/LBT/EDU, WAM/CPN.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Referred to LBT/HHS/EDU, WAM/CPN.",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Labor and Technology",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Health and Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Education",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Commerce and Consumer Protection",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Passed First Reading.",
+      "date": "2026-01-26",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    },
+    {
+      "description": "Introduced.",
+      "date": "2026-01-23",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:04:00Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "KEOHOKALOLE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"KEOHOKALOLE\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HB 1865",
+      "legislative_session": "2026 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "SB2763",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB2763_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB2763_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2763&year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "HHS/LBT, WAM/CPN"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:04:00Z"
+  }
+}

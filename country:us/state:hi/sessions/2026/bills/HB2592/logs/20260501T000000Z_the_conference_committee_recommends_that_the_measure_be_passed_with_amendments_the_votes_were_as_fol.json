@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 5 Ayes: Representative(s) Hashem, Tarnas, Kusch, Morikawa, Shimizu; Ayes with reservations: none; 0 Noes: none; and 1 Excused: Representative(s) Garrett.",
+    "occurred_at": "2026-05-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2592&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2592"
+}

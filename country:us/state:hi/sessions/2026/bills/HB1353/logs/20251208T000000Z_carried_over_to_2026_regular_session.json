@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Carried over to 2026 Regular Session.",
+    "occurred_at": "2025-12-08",
+    "jurisdiction_id": "~{\"classification\": \"legislature\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "carried-over"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1353&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1353"
+}

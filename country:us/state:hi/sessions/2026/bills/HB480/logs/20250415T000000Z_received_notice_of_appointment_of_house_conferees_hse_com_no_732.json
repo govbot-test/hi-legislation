@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Received notice of appointment of House conferees (Hse. Com. No. 732).",
+    "occurred_at": "2025-04-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=480&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB480"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The recommendation of the committee(s) on HOU is to ADVISE AND CONSENT to the nomination(s).  The votes in HOU were as follows: 4 Aye(s): Senator(s) Chang, Hashimoto, Elefante, Rhoads; Aye(s) with reservations: none ; 0 No(es): none; and 1 Excused: Senator(s) Fevella.",
+    "occurred_at": "2026-04-16",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=681&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM681"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Received.",
+    "occurred_at": "2026-01-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=586&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM586"
+}

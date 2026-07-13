@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from WAM (Stand. Com. Rep. No. 3702) with recommendation of passage on Third Reading.",
+    "occurred_at": "2026-04-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1576&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1576"
+}

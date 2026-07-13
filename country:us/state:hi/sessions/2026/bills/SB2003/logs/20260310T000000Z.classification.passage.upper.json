@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Report Adopted; Passed Third Reading, as amended (SD 2).  Ayes, 21; Aye(s) with reservations: Senator(s) Ihara, Keohokalole, McKelvey.  Noes, 4 (Senator(s) Awa, DeCorte, Fevella, San Buenaventura).  Excused, 0 (none).  Transmitted to House.",
+    "occurred_at": "2026-03-10",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2003&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2003"
+}

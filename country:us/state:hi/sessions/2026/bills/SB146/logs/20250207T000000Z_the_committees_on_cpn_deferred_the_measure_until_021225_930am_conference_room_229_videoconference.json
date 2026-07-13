@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on CPN deferred the measure until 02-12-25 9:30AM; Conference Room 229 & videoconference.",
+    "occurred_at": "2025-02-07",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=146&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB146"
+}

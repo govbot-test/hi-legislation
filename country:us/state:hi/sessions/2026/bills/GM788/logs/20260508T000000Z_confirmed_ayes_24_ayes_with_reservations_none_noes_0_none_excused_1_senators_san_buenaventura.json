@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Confirmed. Ayes, 24. Aye(s) with reservations: none.  Noes, 0 (none). Excused, 1 (Senator(s) San Buenaventura).",
+    "occurred_at": "2026-05-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=788&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM788"
+}

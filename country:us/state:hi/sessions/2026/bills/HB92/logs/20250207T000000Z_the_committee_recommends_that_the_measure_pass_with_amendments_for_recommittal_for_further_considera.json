@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee recommends that the measure pass with amendments, for recommittal for further consideration. The votes were as follows: 5 Ayes: Representative(s) Kahaloa, Kusch, Lowen, Perruso, Quinlan;  Ayes with reservations: none;  Noes: none; and 1 Excused: Representative(s) Ward.",
+    "occurred_at": "2025-02-07",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=92&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB92"
+}

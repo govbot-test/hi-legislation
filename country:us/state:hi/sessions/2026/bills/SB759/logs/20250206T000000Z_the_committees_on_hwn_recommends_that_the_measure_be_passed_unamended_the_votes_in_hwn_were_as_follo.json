@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on HWN recommend(s) that the measure be PASSED, UNAMENDED.  The votes in HWN were as follows: 3 Aye(s): Senator(s) Richards, San Buenaventura, Keohokalole; Aye(s) with reservations: none ; 1 No(es): Senator(s) DeCorte; and 1 Excused: Senator(s) Ihara.",
+    "occurred_at": "2025-02-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=759&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB759"
+}

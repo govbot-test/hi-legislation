@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Final Reading as amended in CD 2 with none voting aye with reservations; Representative(s) Alcos, Amato, Cochran, Garcia, Gedeon, Iwamoto, Muraoka, Perruso, Pierick, Poepoe, Shimizu voting no (11) and none excused (0).",
+    "occurred_at": "2026-05-08",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2169&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2169"
+}

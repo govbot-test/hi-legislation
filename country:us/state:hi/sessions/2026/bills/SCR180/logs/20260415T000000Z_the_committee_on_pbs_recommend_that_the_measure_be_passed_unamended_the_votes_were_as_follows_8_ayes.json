@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee on PBS recommend that the measure be PASSED, UNAMENDED. The votes were as follows: 8 Ayes: Representative(s) Belatti, Iwamoto, Hashem, Ichiyama, Morikawa, Poepoe, Shimizu, Souza; Ayes with reservations: none;  Noes: none; and 1 Excused: Representative(s) Woodson.",
+    "occurred_at": "2026-04-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=180&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR180"
+}

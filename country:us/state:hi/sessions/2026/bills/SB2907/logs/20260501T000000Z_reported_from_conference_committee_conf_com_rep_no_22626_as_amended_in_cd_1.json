@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from Conference Committee (Conf Com. Rep. No. 226-26) as amended in (CD 1).",
+    "occurred_at": "2026-05-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2907&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2907"
+}

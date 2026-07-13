@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from EEP (Stand. Com. Rep. No. 1621-26), recommending referral to TRN.",
+    "occurred_at": "2026-04-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HCR&billnumber=201&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR201"
+}

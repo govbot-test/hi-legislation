@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Confirmed. Ayes, 20. Aye(s) with reservations: Senator(s) Fukunaga.  Noes, 5 (Senator(s) Awa, DeCorte, Fevella, Kim, McKelvey). Excused, 0 (none).",
+    "occurred_at": "2026-04-27",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=697&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM697"
+}

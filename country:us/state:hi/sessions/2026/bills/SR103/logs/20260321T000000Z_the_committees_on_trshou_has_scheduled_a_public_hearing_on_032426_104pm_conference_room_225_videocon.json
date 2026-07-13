@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee(s) on TRS/HOU has scheduled a public hearing on 03-24-26 1:04PM; Conference Room 225 & Videoconference.",
+    "occurred_at": "2026-03-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SR&billnumber=103&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SR103"
+}

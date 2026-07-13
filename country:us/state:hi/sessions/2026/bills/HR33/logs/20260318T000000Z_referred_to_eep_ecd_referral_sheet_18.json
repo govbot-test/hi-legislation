@@ -1,0 +1,31 @@
+{
+  "action": {
+    "description": "Referred to EEP, ECD, referral sheet 18",
+    "occurred_at": "2026-03-18",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Energy & Environmental Protection",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Economic Development & Technology",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HR&billnumber=33&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HR33"
+}

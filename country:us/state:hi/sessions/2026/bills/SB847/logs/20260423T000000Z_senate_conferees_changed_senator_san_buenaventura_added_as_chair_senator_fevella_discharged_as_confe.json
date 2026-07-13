@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Senate Conferees Changed: Senator San Buenaventura added as Chair. Senator Fevella discharged as Conferee. Senator Kanuha discharged as Chair; Added as Member.",
+    "occurred_at": "2026-04-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=847&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB847"
+}

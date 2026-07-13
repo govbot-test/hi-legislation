@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from EDN (Stand. Com. Rep. No. 490-26) as amended in HD 1, recommending passage on Second Reading and referral to FIN.",
+    "occurred_at": "2026-02-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2344&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2344"
+}

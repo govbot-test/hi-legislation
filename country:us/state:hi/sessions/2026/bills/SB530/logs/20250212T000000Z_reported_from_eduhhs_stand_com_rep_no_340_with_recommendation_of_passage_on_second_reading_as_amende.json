@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Reported from EDU/HHS (Stand. Com. Rep. No. 340) with recommendation of passage on Second Reading, as amended (SD 1) and referral to WAM.",
+    "occurred_at": "2025-02-12",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=530&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB530"
+}

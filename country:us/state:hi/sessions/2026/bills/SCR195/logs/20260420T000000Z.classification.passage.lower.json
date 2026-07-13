@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Adopted as amended in HD 1 with Representative(s) Iwamoto voting aye with reservations; none voting no (0) and  Representative(s) Alcos, Cochran, Woodson excused (3).",
+    "occurred_at": "2026-04-20",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SCR&billnumber=195&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SCR195"
+}

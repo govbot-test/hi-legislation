@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on WAM deferred the measure until 02-27-25 10:31AM; Conference Room 211 & Videoconference.",
+    "occurred_at": "2025-02-26",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=944&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB944"
+}

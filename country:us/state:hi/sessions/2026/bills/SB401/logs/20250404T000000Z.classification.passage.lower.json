@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed Third Reading with Representative(s) Reyes Oda voting aye with reservations; Representative(s) Alcos, Garcia, Kila, Kong, Matsumoto, Muraoka, Pierick, Shimizu voting no (8) and Representative(s) Cochran, Kapela, Marten excused (3).  Transmitted to Senate.",
+    "occurred_at": "2025-04-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=401&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB401"
+}

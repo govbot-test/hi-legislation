@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee(s) on WAM deleted the measure from the public hearing scheduled on 04-27-26 12:30PM; CR 211 & Videoconference.",
+    "occurred_at": "2026-04-23",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=GM&billnumber=517&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "GM517"
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee(s) on HWN deferred the measure until 03-18-25 1:00PM; CR 224 & Videoconference.",
+    "occurred_at": "2025-03-11",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1408&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1408"
+}

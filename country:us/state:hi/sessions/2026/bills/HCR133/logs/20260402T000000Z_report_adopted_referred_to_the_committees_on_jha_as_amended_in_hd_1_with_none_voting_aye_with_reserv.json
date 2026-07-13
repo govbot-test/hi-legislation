@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Report adopted; referred to the committee(s) on JHA as amended in HD 1 with none voting aye with reservations; none voting no (0) and none excused (0).",
+    "occurred_at": "2026-04-02",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HCR&billnumber=133&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HCR133"
+}

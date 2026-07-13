@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee(s) on WTL/GVO has scheduled a public hearing on 02-11-25 3:05PM; Conference Room 225 & Videoconference.",
+    "occurred_at": "2025-02-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1103&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1103"
+}

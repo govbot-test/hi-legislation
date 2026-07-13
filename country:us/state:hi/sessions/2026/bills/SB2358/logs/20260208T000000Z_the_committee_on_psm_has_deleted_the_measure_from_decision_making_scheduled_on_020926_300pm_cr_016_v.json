@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee on PSM has deleted the measure from decision making scheduled on 02-09-26 3:00PM; CR 016 & Videoconference.",
+    "occurred_at": "2026-02-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2358&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2358"
+}

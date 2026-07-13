@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Received notice of appointment of House conferees (Hse. Com. No. 799).",
+    "occurred_at": "2026-04-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2417&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2417"
+}

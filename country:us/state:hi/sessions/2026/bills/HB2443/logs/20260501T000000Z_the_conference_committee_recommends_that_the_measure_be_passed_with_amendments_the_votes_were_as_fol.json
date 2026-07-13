@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The Conference Committee recommends that the measure be Passed, with Amendments. The votes were as follows: 4 Ayes: Representative(s) Belatti, Morikawa, Templo, Shimizu; Ayes with reservations: none; 0 Noes: none; and 1 Excused: Representative(s) Amato.",
+    "occurred_at": "2026-05-01",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2443&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2443"
+}

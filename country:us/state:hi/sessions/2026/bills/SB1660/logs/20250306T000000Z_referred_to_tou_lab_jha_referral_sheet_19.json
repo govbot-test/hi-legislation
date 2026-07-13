@@ -1,0 +1,36 @@
+{
+  "action": {
+    "description": "Referred to TOU, LAB, JHA, referral sheet 19",
+    "occurred_at": "2025-03-06",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Tourism",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Labor",
+        "entity_type": "organization",
+        "organization_id": null
+      },
+      {
+        "name": "Judiciary & Hawaiian Affairs",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=1660&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB1660"
+}

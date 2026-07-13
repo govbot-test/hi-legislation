@@ -1,0 +1,26 @@
+{
+  "action": {
+    "description": "Referred to WAM.",
+    "occurred_at": "2026-01-30",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "referral-committee"
+    ],
+    "related_entities": [
+      {
+        "name": "Ways and Means",
+        "entity_type": "organization",
+        "organization_id": null
+      }
+    ],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2808&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2808"
+}

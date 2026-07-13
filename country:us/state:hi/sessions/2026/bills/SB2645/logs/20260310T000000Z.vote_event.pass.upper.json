@@ -1,0 +1,44 @@
+{
+  "identifier": "",
+  "motion_text": "Report Adopted; Passed Third Reading, as amended (SD 3).",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-03-10",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "~{\"from_organization__classification\": \"upper\", \"identifier\": \"SB2645\", \"legislative_session__identifier\": \"2026\"}",
+  "bill_action": null,
+  "bill_identifier": "SB2645",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Elefante",
+      "voter_id": "~{\"name\": \"Elefante\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 25
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2645&year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "37#SB2645#2026-03-10#Report Adopted; Passed Third Reading, as amended (SD 3).  Ayes, 25; Aye(s) with reservations: Senator(s) Elefante.  Noes, 0 (none).  Excused, 0 (none).  Transmitted to House."
+}

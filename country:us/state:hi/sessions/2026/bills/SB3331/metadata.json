@@ -1,0 +1,168 @@
+{
+  "legislative_session": "2026",
+  "identifier": "SB3331",
+  "title": "RELATING TO FAMILY SAFETY.",
+  "from_organization": "~{\"classification\": \"upper\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [
+    "Automatic Protective Orders",
+    "Child Welfare Ombudsman",
+    "Coercive Control",
+    "Economic Abuse",
+    "Family Safety",
+    "Family Violence Docket",
+    "Neurodivergent Child Protections",
+    "Protective Parents Rights",
+    "Reproductive Privacy",
+    "Safety",
+    "Year of Resilience",
+    "and Survivor Justice"
+  ],
+  "abstracts": [
+    {
+      "note": "description",
+      "abstract": "Establishes comprehensive reforms to protect children and families from abuse and improve systemic responses.  Part I: Establishes the calendar year 2027 as the Year of Resilience, Safety, and Survivor Justice.  Part II: Modernizes statutory definitions of harm and child abuse.  Part III: Recognizes coercive control as domestic abuse.  Part IV: Reforms Family Court procedures to prioritize child safety and prohibit parental alienation theories.  Part V: Defines economic abuse and strengthens financial protections, including automatic restraining orders, emergency hearings, forensic accounting authority, and liability for financial institutions.  Part VI: Safeguards neurodivergent children and prohibits diagnosis shopping.  Part VII: Protects reproductive privacy in custody proceedings.  Part VIII: Enhances Child Welfare Services Branch accountability through audits and creation of a Child Welfare Ombudsman.  Part IX: Requires automatic protective orders and custody restrictions in cases of severe violence.  Part X: Creates a Family Violence Docket with mandatory judicial training and an advisory panel."
+    }
+  ],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-hi-2026-sb3331"
+    }
+  ],
+  "actions": [
+    {
+      "description": "Re-Referred to HHS, JDC/WAM.",
+      "date": "2026-02-11",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:56Z"
+      }
+    },
+    {
+      "description": "Referred to HHS/WLA, JDC/WAM.",
+      "date": "2026-02-02",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "referral-committee"
+      ],
+      "related_entities": [
+        {
+          "name": "Health and Human Services",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Water, Land, Culture and the Arts",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Judiciary",
+          "entity_type": "organization",
+          "organization_id": null
+        },
+        {
+          "name": "Ways and Means",
+          "entity_type": "organization",
+          "organization_id": null
+        }
+      ],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:56Z"
+      }
+    },
+    {
+      "description": "Passed First Reading.",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "reading-1"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:56Z"
+      }
+    },
+    {
+      "description": "Introduced.",
+      "date": "2026-01-30",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "introduction"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-13T06:03:56Z"
+      }
+    }
+  ],
+  "sponsorships": [
+    {
+      "name": "LEE",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"LEE\"}",
+      "organization_id": null
+    },
+    {
+      "name": "C.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"name\": \"C.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [
+    {
+      "identifier": "HB 2408",
+      "legislative_session": "2026 Regular Session",
+      "relation_type": "companion"
+    }
+  ],
+  "versions": [
+    {
+      "note": "SB3331",
+      "links": [
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB3331_.HTM",
+          "media_type": "text/html"
+        },
+        {
+          "url": "https://data.capitol.hawaii.gov/sessions/session2026/bills/SB3331_.PDF",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3331&year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {
+    "current_referral": "HHS, JDC/WAM"
+  },
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/state:hi/government",
+    "name": "Hawaii",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/state:hi"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:03:56Z"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee on HRE deferred the measure.",
+    "occurred_at": "2025-03-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "deferral"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1337&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB1337"
+}

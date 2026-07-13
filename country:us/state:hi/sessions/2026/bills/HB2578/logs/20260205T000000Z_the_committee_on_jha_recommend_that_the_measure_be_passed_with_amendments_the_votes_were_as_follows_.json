@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "The committee on JHA recommend that the measure be PASSED, WITH AMENDMENTS. The votes were as follows: 9 Ayes: Representative(s) Tarnas, Poepoe, Belatti, Cochran, Kahaloa, Sayama, Takayama, Shimizu; Ayes with reservations: Representative(s) Garcia;  Noes: none; and 1 Excused: Representative(s) Hashem.",
+    "occurred_at": "2026-02-05",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "committee-passage-favorable"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2578&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2578"
+}

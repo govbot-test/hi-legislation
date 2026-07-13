@@ -1,0 +1,44 @@
+{
+  "identifier": "",
+  "motion_text": "Report Adopted; Passed Third Reading.",
+  "motion_classification": [
+    "passage"
+  ],
+  "start_date": "2026-04-14",
+  "result": "pass",
+  "organization": "~{\"classification\": \"upper\"}",
+  "legislative_session": "2026",
+  "bill": "~{\"from_organization__classification\": \"lower\", \"identifier\": \"HB1897\", \"legislative_session__identifier\": \"2026\"}",
+  "bill_action": null,
+  "bill_identifier": "HB1897",
+  "votes": [
+    {
+      "option": "yes",
+      "voter_name": "Elefante",
+      "voter_id": "~{\"name\": \"Elefante\"}",
+      "note": ""
+    }
+  ],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 22
+    },
+    {
+      "option": "no",
+      "value": 3
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=1897&year=2026",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "8#HB1897#2026-04-14#Report Adopted; Passed Third Reading. Ayes, 22; Aye(s) with reservations: Senator(s) Elefante.  Noes, 3 (Senator(s) Fukunaga, Kim, Richards).  Excused, 0 (none).  Transmitted to House."
+}

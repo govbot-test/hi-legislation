@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "The committee on WAM has added the measure to decision making scheduled on 04-09-26 10:55AM; CR 211 & Videoconference.",
+    "occurred_at": "2026-04-08",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2114&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2114"
+}
