@@ -1,0 +1,59 @@
+Title: In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Official Title: In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Number of Sections: 1
+Source: versions - GM792
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AlNA
+EXECUTIVE CHAMBERS
+KE KE ENA 0 KE KIA'AlNA
+March 20, 2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third State Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+Constitution, I have the honor to submit herewith for your consideration and
+confirmation the following nomination:
+Cheryl Cross
+Hawaii Workforce Development Council
+Expiration Date: June 30, 2030
+Sincerely,
+Josh Green, M.D.
+Governor, State of Hawaii
+[DELETED: EKE KeR    tfS e,Rr  t aiMn ofowhte  SeV  HsSnt ,ytrs fra tohh  enn]
+
+
+================================================================================
+
+Raw Text:
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AlNA
+EXECUTIVE CHAMBERS
+KE KE ENA 0 KE KIA'AlNA
+March 20, 2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third State Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Constitution, I have the honor to submit herewith for your consideration and
+confirmation the following nomination:
+Cheryl Cross
+Hawaii Workforce Development Council
+Expiration Date: June 30, 2030
+Sincerely,
+Josh Green, M.D.
+Governor, State of Hawaii
+
+[DELETED: EKE KeR    tfS e,Rr  t aiMn ofowhte  SeV  HsSnt ,ytrs fra tohh  enn]
