@@ -1,0 +1,59 @@
+Title: In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Official Title: In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Number of Sections: 1
+Source: versions - GM728
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+GOV. MSG. NO.
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AINA
+EXECUTIVE CHAMBERS
+KE KE'ENA O KE KIA'AINA
+March 4, 2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+Constitution, I am correcting the name in the following appointment:
+GM590
+Nolan Miyahara
+Motor Vehicle Repair Industry Board
+Term end date: 06-30-29
+Mahalo,
+Governor, State of Hawaii
+[DELETED: .EEOKh42  edD teC4r a  istfSn t     tee ohV,SnSfHe6, innetemc aer  IrBme]
+
+
+================================================================================
+
+Raw Text:
+GOV. MSG. NO.
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AINA
+EXECUTIVE CHAMBERS
+KE KE'ENA O KE KIA'AINA
+March 4, 2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Constitution, I am correcting the name in the following appointment:
+GM590
+Nolan Miyahara
+Motor Vehicle Repair Industry Board
+Term end date: 06-30-29
+Mahalo,
+Governor, State of Hawaii
+
+[DELETED: .EEOKh42  edD teC4r a  istfSn t     tee ohV,SnSfHe6, innetemc aer  IrBme]

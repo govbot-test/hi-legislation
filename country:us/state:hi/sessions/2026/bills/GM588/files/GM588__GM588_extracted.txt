@@ -1,0 +1,61 @@
+Title: In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Official Title: In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Number of Sections: 1
+Source: versions - GM588
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+. . .
+gov msg no 5%8
+EXECUTIVE CHAMBERS
+KE KEENA 0 KE KIAAINA
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AlNA
+January 21,2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+Constitution, I have the honor to submit herewith for your consideration and
+confirmation the following nomination:
+Michael Stoebner
+Motor Vehicle Industry Licensing Board
+Expiration Date: June 30, 2029
+Sincerely,
+Governor, State of Hawaii
+[DELETED: EK HM eReK Pts C   diMonwhof o e e6     ts,SnS,hrIt to  e  te lSrLgBeI   e,o  ]
+
+
+================================================================================
+
+Raw Text:
+. . .
+gov msg no 5%8
+EXECUTIVE CHAMBERS
+KE KEENA 0 KE KIAAINA
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AlNA
+January 21,2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Constitution, I have the honor to submit herewith for your consideration and
+confirmation the following nomination:
+Michael Stoebner
+Motor Vehicle Industry Licensing Board
+Expiration Date: June 30, 2029
+Sincerely,
+Governor, State of Hawaii
+
+[DELETED: EK HM eReK Pts C   diMonwhof o e e6     ts,SnS,hrIt to  e  te lSrLgBeI   e,o  ]

@@ -1,0 +1,63 @@
+Title: In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Official Title: In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Number of Sections: 1
+Source: versions - GM805
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+GOV.MSG. .
+no
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AINA
+EXECUTIVE CHAMBERS
+KE KE'ENA O KE KIA'AINA
+April 2, 2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third State Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+Constitution, I have the honor to submit herewith for your consideration and
+confirmation the following nomination:
+Keith Amemiya
+Board of Regents of the University of Hawai’i
+Expiration Date: June 30, 2031
+Sincerely,
+Josh Green, M.D.
+Governor, State of Hawaii
+[DELETED: HG E OK  R P t ,9ra   tostSn Swh s6 t Aeoe S HfV,yraIt    e fhrhhco  ehAdUy  Hfofos  n e3h,M,o]
+
+
+================================================================================
+
+Raw Text:
+GOV.MSG. .
+no
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AINA
+EXECUTIVE CHAMBERS
+KE KE'ENA O KE KIA'AINA
+April 2, 2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third State Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Constitution, I have the honor to submit herewith for your consideration and
+confirmation the following nomination:
+Keith Amemiya
+Board of Regents of the University of Hawai’i
+Expiration Date: June 30, 2031
+Sincerely,
+Josh Green, M.D.
+Governor, State of Hawaii
+
+[DELETED: HG E OK  R P t ,9ra   tostSn Swh s6 t Aeoe S HfV,yraIt    e fhrhhco  ehAdUy  Hfofos  n e3h,M,o]
