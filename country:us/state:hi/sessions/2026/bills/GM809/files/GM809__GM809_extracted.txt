@@ -1,0 +1,63 @@
+Title: In accordance with the provisions of Article V, Section 6 of the Hawai'i State
+Official Title: In accordance with the provisions of Article V, Section 6 of the Hawai'i State
+Number of Sections: 1
+Source: versions - GM809
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+. . . 30*^
+gov msg no
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AINA
+EXECUTIVE CHAMBERS
+KE KE'ENA 0 KE KIA'AINA
+April 14, 2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third State Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawai'i 96813
+Dear President Kouchi and Members of the Senate:
+Constitution, I am withdrawing the following appointment per her request:
+GM658
+Kristi Miyamae
+Hawai'i Teacher Standards Board
+Expiration Date: June 30, 2028
+Sincerely,
+Josh Green, M.D.
+Governor, State of Hawai'i
+[DELETED:  ME0KAKl1eHe    tsS,Hra   iMste  ntoht  Hpe,o6 ,  wtmatp iTr:eeo]
+
+
+================================================================================
+
+Raw Text:
+. . . 30*^
+gov msg no
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AINA
+EXECUTIVE CHAMBERS
+KE KE'ENA 0 KE KIA'AINA
+April 14, 2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third State Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawai'i 96813
+Dear President Kouchi and Members of the Senate:
+In accordance with the provisions of Article V, Section 6 of the Hawai'i State
+Constitution, I am withdrawing the following appointment per her request:
+GM658
+Kristi Miyamae
+Hawai'i Teacher Standards Board
+Expiration Date: June 30, 2028
+Sincerely,
+Josh Green, M.D.
+Governor, State of Hawai'i
+
+[DELETED:  ME0KAKl1eHe    tsS,Hra   iMste  ntoht  Hpe,o6 ,  wtmatp iTr:eeo]

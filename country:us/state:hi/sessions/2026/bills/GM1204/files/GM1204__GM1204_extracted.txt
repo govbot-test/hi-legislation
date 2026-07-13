@@ -1,0 +1,685 @@
+Title: The Honorable Ronald D. Kouchi The Honorable Nadine K. Nakamura
+Official Title: The Honorable Ronald D. Kouchi The Honorable Nadine K. Nakamura
+Number of Sections: 1
+Source: versions - GM1204
+Media Type: application/pdf
+Strikethrough Detection: 15 sections found
+
+================================================================================
+
+Section 1:
+GOV, MSG. NO. IZO4'
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AINA
+EXECUTIVE CHAMBERS
+KE KE'ENA 0 KE KIA'AINA
+June 5, 2026
+President of the Senate, Speaker, and Members of the
+and Members of the Senate House of Representatives
+Thirty-Third State Legislature Thirty-Third State Legislature
+State Capitol, Room 409 State Capitol, Room 431
+Honolulu, Hawai'i 96813 Honolulu. Hawaii 96813
+Aloha President Kouchi, Speaker Nakamura, and Members of the Legislature:
+This is to inform you that on June 5, 2026, the following bill was signed into law:
+S.B. NO. 2673, S.D. 1, H.D. 1, RELATING TO THE COUNTIES.
+C.D. 1 ACT 104
+Mahalo,
+Josh Green, M.D.
+Governor, State of Hawaii
+Approved by the Governor
+ACT 104
+JUN 5 2026
+THE SENATE S.B. NO. 2673
+THIRTY-THIRD LEGISLATURE. 2026 S.D. 1
+STATE OF HAWAII H.D. 1
+C.D. 1
+A BILL FOR AN ACT
+RELATING TO THE COUNTIES.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+1 SECTION 1. The legislature finds that the timely review of
+2 building and civil engineering permits is critical to addressing
+3 the State's housing shortage, enabling renewable energy
+4 projects, and supporting economic development.
+5 The legislature further finds that the governor's emergency
+6 proclamation on housing and the subsequent findings of the
+7 simplifying permitting for enhanced economic development task
+8 force have highlighted significant challenges in tracking
+9 permitting performance. The task force's building permit
+10 permitted interaction group found that counties use incompatible
+11 data standards to represent permit status, key dates,
+12 valuations, and categories, which complicates meaningful
+13 comparisons and shared learning. The group further suggested
+14 that the counties and the State work toward common data
+15 standards and reporting templates for building permits,
+16 including more granular status categories that distinguish
+2026-2353 SB2673 GDI SMA.docx 1
+iiiiiHiiiiiiiHiiniiMiniiiH
+Page 2
+S.B. NO.
+C.D. 1
+1 delays attributable to applicants from delays attributable to
+2 agencies.
+3 The legislature finds that while some permit data is
+4 currently available, it is often difficult to access or is
+5 provided in formats that do not allow for routine aggregation,
+6 analysis, or cross-county comparison. Requiring counties to
+7 publish permit data in a standardized, machine-readable format
+8 will reduce the administrative burden of ad hoc information
+9 requests, support customer service improvements, and foster
+10 transparency and accountability.
+11 Accordingly, the purpose of this Act is to:
+12 (1) Establish a statewide permitting data standard in
+13 collaboration with the office of planning and
+14 sustainable development, county permitting agencies,
+15 and the chief data officer of the office of enterprise
+16 technology services;
+17 (2) Require each county to publish monthly updates of
+18 building and civil engineering permit data in
+19 accordance with that standard; and
+20 (3) Require a report to the legislature.
+2026-2353 SB2673 CDl SMA.docx 2
+IIIIIIIIHIIIIIIHIIIHIIIIIIIII
+Page 3 S.B. NO.
+C.D. 1
+1 SECTION 2. Chapter 46, Hawaii Revised Statutes, is amended
+2 by adding a new section to part V to be appropriately designated
+3 and to read as follows:
+4 "§46- Publicly aocessible permit data; monthly updates;
+5 statewide standard. (a) Each county shall host and maintain on
+6 its website a publicly accessible dataset containing data on all
+7 building and civil engineering permit applications administered
+8 by the county.
+9 (b) The dataset required by subsection (a) shall:
+10 (1) Be updated at least monthly;
+11 (2) Be published in a machine-readable format, such as
+12 comma-separated values (CSV) or javascript object
+13 notation (JSON); and
+14 (3) Include a data dictionary that defines each field and
+15 the permitted values for any coded field.
+16 (c) To ensure statewide comparability, each record in the
+17 dataset required by subsection (a) shall include, at a minimum,
+18 the following fields and defined field names, which shall be
+19 populated in accordance with the statewide permitting data
+20 standard established under subsection (f) :
+21 (1) The permit number ("PermitNum”);
+2026-2353 SB2673 CDl SMA.docx
+MHiiiiiiiiininiuiiiMiiii
+Page 4 S.B. NO.
+H.D. 1
+C.D. 1
+1 (2) A detailed description of work permitted
+2 ("Description");
+3 (3) The date on which the permit application was
+4 submitted, in YYYY-MM-DD format ("AppliedPate");
+5 (4) The date on which the permit was issued, if
+6 applicable, in YYYY-MM-DD format ("IssuedPate");
+7 (5) The date on which the permit was completed or
+8 finalized, if applicable, in YYYY-MM-PP format
+9 ("CompletedPate");
+10 (6) A raw value indicating the current status of the
+11 permit ("Statuscurrent");
+12 (7) The original property street address line 1, as stored
+13 by the county ("OriginalAddressl");
+14 (8) The original property street address line 2, as stored
+15 by the county, if applicable ("OriginalAddress2");
+16 (9) The original property city, as stored by the county
+17 ("Originalcity");
+18 (10) The original property state, as stored by the county
+19 ("Originalstate");
+20 (11) The original property zip code, as stored by the
+21 county ("OriginalZip");
+2026-2353 SB2673 CPl SMA.docx 4
+IHlilUnMIIIIill
+Page 5
+S.B. NO.
+H.D. 1
+CD. 1
+1 (12) A unique identifier for the county publishing the
+2 record ("Jurisdiction”);
+3 (13) A raw value indicating whether the permit is for
+4 residential or non-residential property
+5 ("Permitclass");
+6 (14) A standardized value for the permit class, as defined
+7 by the statewide permitting data standard
+8 ("PermitClassMapped");
+9 (15) A standardized value for the current status, as
+10 defined by the statewide permitting data standard
+11 ("StatusCurrentMapped");
+12 (16) A raw value indicating whether the permitted work is
+13 new construction or work on an existing structure
+14 ("Workclass");
+15 (17) A standardized value for the work class, as defined by
+16 the statewide permitting data standard
+17 ("WorkClassMapped");
+18 (18) A raw value indicating the permit type in abbreviated
+19 or shorthand format ("PermitType");
+2026-2353 SB2673 CDl SMA.docx 5
+iiiliiliiiHiiniiiiiiiiii
+Page 6 S.B. NO.
+C.D, 1
+1 (19) A standardized value for the permit type, as defined
+2 by the statewide permitting data standard
+3 ("PermitTypeMapped");
+4 (20) A longer description of the permit type
+5 ("PermitTypePesc”);
+6 (21) The date on which the permit record was last updated
+7 in the county's system of record, in YYYY-MM-DD format
+8 ("StatusDate");
+9 (22) The total square footage relevant to the permit
+10 ("TotalSqFt");
+11 (23) The uniform resource locator to the county's public
+12 web page for the permit, if applicable ("Lin)<");
+13 (24) The latitude of the property in decimal degrees
+14 ("Latitude");
+15 (25) The longitude of the property in decimal degrees
+16 ("Longitude");
+17 (26) The estimated value of the project, if l<nown
+18 ("EstProjectCost");
+19 (27) The number of housing units authorized or affected by
+20 the permit, if any ("HousingUnits");
+2026-2353 SB2673 CDl SMA.docx 6
+iHinHniiiiiiinmHiii
+Page 7 S.B. NO.
+CD. 1
+1 (28) The parcel identifier used for tax assessment
+2 purposes, including the tax map key, if available
+3 ("PIN");
+4 (29) The primary company name of the contractor, if
+5 applicable ("ContractorCompanyName");
+6 (30) A raw value indicating the contractor's trade, if
+7 applicable ("ContractorTrade");
+8 (31) A standardized value for the contractor's trade, as
+9 defined by the statewide permitting data standard, if
+10 applicable ("ContractorTradeMapped"); and
+11 (32) The contractor license number, if applicable
+12 ("ContractorLicNum”).
+13 (d) In addition to the fields and field names provided in
+14 subsection (c), each record shall include the following fields
+15 and defined field names, if the county's system of record
+16 captures the underlying information, to support statewide
+17 measurement of permitting timelines and responsibility for any
+18 delays:
+19 (1) The date on which the application was accepted for
+20 processing or deemed complete, in YYYY-MM-DD format
+21 ("AcceptedPate") ;
+2026-2353 SB2673 CDl SMA.docx
+iiiiinnniiiiiHiiiiin
+Page 8 S.B. NO.
+C.D. 1
+1 (2) The permitting agency or county department
+2 administering the permit, as stored by the county
+3 ("PermittingAgency");
+4 (3) The final disposition of the application, limited to:
+5 approved, denied, withdrawn, expired, or voided
+6 ("FinalDisposition");
+7 (4) The date of the final disposition, in YYYY-MM-DD
+8 format ("FinalDispositionPate"); and
+9 (5) The date on which the permit was last placed on hold
+10 or otherwise paused, in YYYY-MM-DD format
+11 ("HoldPate").
+12 (e) Each county shall cooperate with the other counties,
+13 the office of planning and sustainable development, and the
+14 chief data officer to ensure that the statewide permitting data
+15 standard established under subsection (f) uses common
+16 definitions, common field names, and common standardized values
+17 that allow for accurate cross-county comparison. Each county
+18 shall:
+19 (1) Pesignate a permitting data liaison responsible for
+20 coordinating implementation of this section;
+2026-2353 SB2673 CPI SMA.docx 8
+IIMIIIiMRIIIIIIigHIIIIII
+Page 9 S.B. NO.
+C.D. 1
+I (2) Provide, upon request, the county's permitting data
+2 dictionary, code lists, and documentation needed to
+3 map county-specific values to standardized values; and
+4 (3) Maintain and publish, alongside the dataset required
+5 by subsection (a), a crosswalk that maps each
+6 county-specific coded value used in fields required by
+7 subsections (c) and (d) to the corresponding
+8 standardized value.
+9 (f) The office of planning and sustainable development, in
+10 collaboration with the chief data officer, shall establish,
+11 publish, manage, and periodically update a statewide permitting
+12 data standard to implement this section. The statewide
+13 permitting data standard shall;
+14 (1) Be designed for routine monthly publication and public
+15 use;
+16 (2) Incorporate, at a minimum, the required and
+17 recommended fields described in subsections (c) and
+18 (d) ;
+19 (3) Define each field required by subsections (c) and (d),
+20 including data types, required formats, and allowable
+21 values;
+2026-2353 SB2673 CDl SMA.docx
+iHlIIOIIIIIIIIIIIIIIDIliill
+Page 10 S.B. NO.
+H.D. 1
+C.D. 1
+1 (4) Establish standardized value sets for the fields
+2 ending in "Mapped", including status categories that
+3 distinguish, at a minimum, between delays attributable
+4 to an applicant and delays attributable to an agency;
+5 (5) Specify how a county shall represent missing or
+6 inapplicable values; and
+7 (6) Include implementation guidance intended to minimize
+8 the administrative burden on the counties.
+9 (g) The statewide permitting data standard required by
+10 subsection (f) shall be published no later than January 1, 2027.
+11 Each county shall comply with the statewide permitting data
+12 standard beginning no later than January 1, 2027."
+13 SECTION 3. The office of planning and sustainable
+14 development, in collaboration with the chief data officer, shall
+15 submit a report of its findings and recommendations, including
+16 any proposed legislation, to the legislature no later than
+17 twenty days prior to the convening of the regular session of
+18 2027. The report shall include:
+19 (1) The statewide permitting data standard published
+20 pursuant to this Act;
+2026-2353 SB2673 CDl SMA.docx 10
+IHMiHlIIHIIfllHWM
+Page 11 S.B. NO.
+CD. 1
+1 (2) The consultation process used to develop the standard,
+2 including participation by the counties;
+3 (3) Any barriers to county implementation, including
+4 technology constraints, staffing, or legal barriers;
+5 and
+6 (4) Any proposed legislation or administrative actions
+7 needed to improve statewide permitting data quality
+8 and comparability.
+9 SECTION 4. New statutory material is underscored.
+10 SECTION 5. This Act shall take effect upon its approval.
+2026-2353 SB2673 CDl SMA.docx 11
+MiliilllHMIimMillH
+S.B. NO 2673
+S.D. 1
+H.D. 1
+C.D. 1
+APPROVED this Sth day of June .2026
+GOVERNOR OF THE STATE OF HAWAII
+S.B. No. 2673, S.D. 1, H.D. 1, C.D. 1
+THE SENATE OF THE STATE OF HAW API
+Date: May 6, 2026
+Honolulu, Hawai‘i 96813
+We hereby certify that the foregoing Bill this day passed Final Reading in the Senate
+of the Thirty-Third Legislature of the State of Hawai‘i, Regular Session of 2026.
+Clerk of the Senate
+192-26
+SB No. 2673, SD1,HD1,CD1
+THE HOUSE OF REPRESENTATIVES OF THE STATE OF HAWAII
+Date: May 6, 2026
+Honolulu, Hawaii
+We hereby certify that the above-referenced Bill on this day passed Final Reading in the
+House of Representatives of the Thirty-Third Legislature of the State of Hawaii, Regular Session
+of2026.
+Nadine K. Nakamura
+Speaker
+House of Representatives
+Brian L. Takeshita
+Chief Clerk
+House of Representatives
+[DELETED: HG,M  IECEK 2e eRKt  eSd eLm4,H9e K.N,doeRe4,R.9K N, t  LM t 5,   isyuonJebwssm     ,  ,1,R     TOT 1,M,e ]
+[DELETED: dteG 2.2EO...B GCE    LE E DOYOF   .e tyrtog dt  ies, grs ge  delefrfs   ttsen  nstgfotgf gdtect set dig fTe .kp fdn  peas   o  dchmsd   dTpst  teadsckd pdrbs  rsttd3]
+[DELETED: saa dofm e s dpt ettswyondit tasor  sid     f tarc. ct aa,flaebnofadt   ,f ri,aeyae A t  e ginwhof peaepc  cf  fee  teaofo Reehtomy  gadpt egilsht  Rer   3S]
+[DELETED:    4,rH iyb a t V gnwa   dttod fora-y ;u)sl hcyh dmns       yeagad altyt dt(rd    ae  Beinme a ddoso )  fde  eattdy  epdfrayf s  esereit ysn() ti,alefd  h s dn, p eh ders nr() 3]
+[DELETED: w dddn  )      epn()D" onptws e  ie h i Y (f wsede t  on,f ,n) ssofrwc  teg 1sestlpyass (y) le2 pystas assf Tesdby  clpas) cbye ass  tl s)as c sd  yzp3S3CS]
+[DELETED: .( ptdd uefr ttepy ve     fr)   cve  rtd  ese ) sdvecta s edby  pes) pd   eig  wwe noron  ve sdd  ec  rw ep) t  Avea it"t()3S]
+[DELETED: e ptsd  aerde epgd) dntp or ) Tedeon lte wsu trn fYecsrnf) topr   toelr tmcsp b fr e ae( leoft  p) indep   df) ofiflev   orbe f  gada,a)S]
+[DELETED: . plirud  ar,i  k axmpi of epy yn() vet i st() ve   trtddai e sy ee"() leaei))I  te anfsadnspd ifn) hief tlfdd ,te i smrsst  gisf ags f whtee f  a wdr n f ]
+[DELETED:  orec dy  esdby,sec) ofltntel,vr) deofte n d, fYa))Te t l  deonptwshhrei   slwhory te  eofpgadadese  fd   ott epd )sc ndcnfds  t  w c.cr hec daep rf goft]
+[DELETED: e untepgd c, , tednn,  ptoscsv)aetedp  y()a,tte kc  e rduinbssad  ()cot  eoeap s n   shfeao,,mdue sy  dt stseas Be    aep at e, m,adss i)a ehfdby ),e  (dsg rdf,aa]
+[DELETED: .f sdf gin , gst,m bta do    anaetta )  cy  slmg ingee mebeot sdbes ar)b  l   lpdo1,nJh l   esycyp hdtn2olr JT a.of sepg,    n dno,hcfstrtr, f  ofay  td oloelydsprtosnteo      .T)s gdasptt3S]
+[DELETED: .e1 ud  stdo nt ycyi  ,  orn ad os dcN4 liN5 usslta  t ]
+[DELETED: ....N os h R ESFH]
+[DELETED: 1 1 , C.ETE  EHFOF ,29et   i y    FyteRgSsdypdtLe   eteRrd  foi oe‘]
+[DELETED:  SEOFOE ST  H:y6,,HeonFli    d R yadt ytlpeLeSRs         teHoffTdReo  .NRR]
+
+
+================================================================================
+
+Raw Text:
+GOV, MSG. NO. IZO4'
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AINA
+EXECUTIVE CHAMBERS
+KE KE'ENA 0 KE KIA'AINA
+June 5, 2026
+The Honorable Ronald D. Kouchi The Honorable Nadine K. Nakamura
+President of the Senate, Speaker, and Members of the
+and Members of the Senate House of Representatives
+Thirty-Third State Legislature Thirty-Third State Legislature
+State Capitol, Room 409 State Capitol, Room 431
+Honolulu, Hawai'i 96813 Honolulu. Hawaii 96813
+Aloha President Kouchi, Speaker Nakamura, and Members of the Legislature:
+This is to inform you that on June 5, 2026, the following bill was signed into law:
+S.B. NO. 2673, S.D. 1, H.D. 1, RELATING TO THE COUNTIES.
+C.D. 1 ACT 104
+Mahalo,
+Josh Green, M.D.
+Governor, State of Hawaii
+
+Approved by the Governor
+ACT 104
+JUN 5 2026
+THE SENATE S.B. NO. 2673
+THIRTY-THIRD LEGISLATURE. 2026 S.D. 1
+STATE OF HAWAII H.D. 1
+C.D. 1
+A BILL FOR AN ACT
+RELATING TO THE COUNTIES.
+BE IT ENACTED BY THE LEGISLATURE OF THE STATE OF HAWAII:
+1 SECTION 1. The legislature finds that the timely review of
+2 building and civil engineering permits is critical to addressing
+3 the State's housing shortage, enabling renewable energy
+4 projects, and supporting economic development.
+5 The legislature further finds that the governor's emergency
+6 proclamation on housing and the subsequent findings of the
+7 simplifying permitting for enhanced economic development task
+8 force have highlighted significant challenges in tracking
+9 permitting performance. The task force's building permit
+10 permitted interaction group found that counties use incompatible
+11 data standards to represent permit status, key dates,
+12 valuations, and categories, which complicates meaningful
+13 comparisons and shared learning. The group further suggested
+14 that the counties and the State work toward common data
+15 standards and reporting templates for building permits,
+16 including more granular status categories that distinguish
+2026-2353 SB2673 GDI SMA.docx 1
+iiiiiHiiiiiiiHiiniiMiniiiH
+
+Page 2
+S.B. NO.
+C.D. 1
+1 delays attributable to applicants from delays attributable to
+2 agencies.
+3 The legislature finds that while some permit data is
+4 currently available, it is often difficult to access or is
+5 provided in formats that do not allow for routine aggregation,
+6 analysis, or cross-county comparison. Requiring counties to
+7 publish permit data in a standardized, machine-readable format
+8 will reduce the administrative burden of ad hoc information
+9 requests, support customer service improvements, and foster
+10 transparency and accountability.
+11 Accordingly, the purpose of this Act is to:
+12 (1) Establish a statewide permitting data standard in
+13 collaboration with the office of planning and
+14 sustainable development, county permitting agencies,
+15 and the chief data officer of the office of enterprise
+16 technology services;
+17 (2) Require each county to publish monthly updates of
+18 building and civil engineering permit data in
+19 accordance with that standard; and
+20 (3) Require a report to the legislature.
+2026-2353 SB2673 CDl SMA.docx 2
+IIIIIIIIHIIIIIIHIIIHIIIIIIIII
+
+Page 3 S.B. NO.
+C.D. 1
+1 SECTION 2. Chapter 46, Hawaii Revised Statutes, is amended
+2 by adding a new section to part V to be appropriately designated
+3 and to read as follows:
+4 "§46- Publicly aocessible permit data; monthly updates;
+5 statewide standard. (a) Each county shall host and maintain on
+6 its website a publicly accessible dataset containing data on all
+7 building and civil engineering permit applications administered
+8 by the county.
+9 (b) The dataset required by subsection (a) shall:
+10 (1) Be updated at least monthly;
+11 (2) Be published in a machine-readable format, such as
+12 comma-separated values (CSV) or javascript object
+13 notation (JSON); and
+14 (3) Include a data dictionary that defines each field and
+15 the permitted values for any coded field.
+16 (c) To ensure statewide comparability, each record in the
+17 dataset required by subsection (a) shall include, at a minimum,
+18 the following fields and defined field names, which shall be
+19 populated in accordance with the statewide permitting data
+20 standard established under subsection (f) :
+21 (1) The permit number ("PermitNum”);
+2026-2353 SB2673 CDl SMA.docx
+MHiiiiiiiiininiuiiiMiiii
+
+Page 4 S.B. NO.
+H.D. 1
+C.D. 1
+1 (2) A detailed description of work permitted
+2 ("Description");
+3 (3) The date on which the permit application was
+4 submitted, in YYYY-MM-DD format ("AppliedPate");
+5 (4) The date on which the permit was issued, if
+6 applicable, in YYYY-MM-DD format ("IssuedPate");
+7 (5) The date on which the permit was completed or
+8 finalized, if applicable, in YYYY-MM-PP format
+9 ("CompletedPate");
+10 (6) A raw value indicating the current status of the
+11 permit ("Statuscurrent");
+12 (7) The original property street address line 1, as stored
+13 by the county ("OriginalAddressl");
+14 (8) The original property street address line 2, as stored
+15 by the county, if applicable ("OriginalAddress2");
+16 (9) The original property city, as stored by the county
+17 ("Originalcity");
+18 (10) The original property state, as stored by the county
+19 ("Originalstate");
+20 (11) The original property zip code, as stored by the
+21 county ("OriginalZip");
+2026-2353 SB2673 CPl SMA.docx 4
+IHlilUnMIIIIill
+
+Page 5
+S.B. NO.
+H.D. 1
+CD. 1
+1 (12) A unique identifier for the county publishing the
+2 record ("Jurisdiction”);
+3 (13) A raw value indicating whether the permit is for
+4 residential or non-residential property
+5 ("Permitclass");
+6 (14) A standardized value for the permit class, as defined
+7 by the statewide permitting data standard
+8 ("PermitClassMapped");
+9 (15) A standardized value for the current status, as
+10 defined by the statewide permitting data standard
+11 ("StatusCurrentMapped");
+12 (16) A raw value indicating whether the permitted work is
+13 new construction or work on an existing structure
+14 ("Workclass");
+15 (17) A standardized value for the work class, as defined by
+16 the statewide permitting data standard
+17 ("WorkClassMapped");
+18 (18) A raw value indicating the permit type in abbreviated
+19 or shorthand format ("PermitType");
+2026-2353 SB2673 CDl SMA.docx 5
+iiiliiliiiHiiniiiiiiiiii
+
+Page 6 S.B. NO.
+C.D, 1
+1 (19) A standardized value for the permit type, as defined
+2 by the statewide permitting data standard
+3 ("PermitTypeMapped");
+4 (20) A longer description of the permit type
+5 ("PermitTypePesc”);
+6 (21) The date on which the permit record was last updated
+7 in the county's system of record, in YYYY-MM-DD format
+8 ("StatusDate");
+9 (22) The total square footage relevant to the permit
+10 ("TotalSqFt");
+11 (23) The uniform resource locator to the county's public
+12 web page for the permit, if applicable ("Lin)<");
+13 (24) The latitude of the property in decimal degrees
+14 ("Latitude");
+15 (25) The longitude of the property in decimal degrees
+16 ("Longitude");
+17 (26) The estimated value of the project, if l<nown
+18 ("EstProjectCost");
+19 (27) The number of housing units authorized or affected by
+20 the permit, if any ("HousingUnits");
+2026-2353 SB2673 CDl SMA.docx 6
+iHinHniiiiiiinmHiii
+
+Page 7 S.B. NO.
+CD. 1
+1 (28) The parcel identifier used for tax assessment
+2 purposes, including the tax map key, if available
+3 ("PIN");
+4 (29) The primary company name of the contractor, if
+5 applicable ("ContractorCompanyName");
+6 (30) A raw value indicating the contractor's trade, if
+7 applicable ("ContractorTrade");
+8 (31) A standardized value for the contractor's trade, as
+9 defined by the statewide permitting data standard, if
+10 applicable ("ContractorTradeMapped"); and
+11 (32) The contractor license number, if applicable
+12 ("ContractorLicNum”).
+13 (d) In addition to the fields and field names provided in
+14 subsection (c), each record shall include the following fields
+15 and defined field names, if the county's system of record
+16 captures the underlying information, to support statewide
+17 measurement of permitting timelines and responsibility for any
+18 delays:
+19 (1) The date on which the application was accepted for
+20 processing or deemed complete, in YYYY-MM-DD format
+21 ("AcceptedPate") ;
+2026-2353 SB2673 CDl SMA.docx
+iiiiinnniiiiiHiiiiin
+
+Page 8 S.B. NO.
+C.D. 1
+1 (2) The permitting agency or county department
+2 administering the permit, as stored by the county
+3 ("PermittingAgency");
+4 (3) The final disposition of the application, limited to:
+5 approved, denied, withdrawn, expired, or voided
+6 ("FinalDisposition");
+7 (4) The date of the final disposition, in YYYY-MM-DD
+8 format ("FinalDispositionPate"); and
+9 (5) The date on which the permit was last placed on hold
+10 or otherwise paused, in YYYY-MM-DD format
+11 ("HoldPate").
+12 (e) Each county shall cooperate with the other counties,
+13 the office of planning and sustainable development, and the
+14 chief data officer to ensure that the statewide permitting data
+15 standard established under subsection (f) uses common
+16 definitions, common field names, and common standardized values
+17 that allow for accurate cross-county comparison. Each county
+18 shall:
+19 (1) Pesignate a permitting data liaison responsible for
+20 coordinating implementation of this section;
+2026-2353 SB2673 CPI SMA.docx 8
+IIMIIIiMRIIIIIIigHIIIIII
+
+Page 9 S.B. NO.
+C.D. 1
+I (2) Provide, upon request, the county's permitting data
+2 dictionary, code lists, and documentation needed to
+3 map county-specific values to standardized values; and
+4 (3) Maintain and publish, alongside the dataset required
+5 by subsection (a), a crosswalk that maps each
+6 county-specific coded value used in fields required by
+7 subsections (c) and (d) to the corresponding
+8 standardized value.
+9 (f) The office of planning and sustainable development, in
+10 collaboration with the chief data officer, shall establish,
+11 publish, manage, and periodically update a statewide permitting
+12 data standard to implement this section. The statewide
+13 permitting data standard shall;
+14 (1) Be designed for routine monthly publication and public
+15 use;
+16 (2) Incorporate, at a minimum, the required and
+17 recommended fields described in subsections (c) and
+18 (d) ;
+19 (3) Define each field required by subsections (c) and (d),
+20 including data types, required formats, and allowable
+21 values;
+2026-2353 SB2673 CDl SMA.docx
+iHlIIOIIIIIIIIIIIIIIDIliill
+
+Page 10 S.B. NO.
+H.D. 1
+C.D. 1
+1 (4) Establish standardized value sets for the fields
+2 ending in "Mapped", including status categories that
+3 distinguish, at a minimum, between delays attributable
+4 to an applicant and delays attributable to an agency;
+5 (5) Specify how a county shall represent missing or
+6 inapplicable values; and
+7 (6) Include implementation guidance intended to minimize
+8 the administrative burden on the counties.
+9 (g) The statewide permitting data standard required by
+10 subsection (f) shall be published no later than January 1, 2027.
+11 Each county shall comply with the statewide permitting data
+12 standard beginning no later than January 1, 2027."
+13 SECTION 3. The office of planning and sustainable
+14 development, in collaboration with the chief data officer, shall
+15 submit a report of its findings and recommendations, including
+16 any proposed legislation, to the legislature no later than
+17 twenty days prior to the convening of the regular session of
+18 2027. The report shall include:
+19 (1) The statewide permitting data standard published
+20 pursuant to this Act;
+2026-2353 SB2673 CDl SMA.docx 10
+IHMiHlIIHIIfllHWM
+
+Page 11 S.B. NO.
+CD. 1
+1 (2) The consultation process used to develop the standard,
+2 including participation by the counties;
+3 (3) Any barriers to county implementation, including
+4 technology constraints, staffing, or legal barriers;
+5 and
+6 (4) Any proposed legislation or administrative actions
+7 needed to improve statewide permitting data quality
+8 and comparability.
+9 SECTION 4. New statutory material is underscored.
+10 SECTION 5. This Act shall take effect upon its approval.
+2026-2353 SB2673 CDl SMA.docx 11
+MiliilllHMIimMillH
+
+S.B. NO 2673
+S.D. 1
+H.D. 1
+C.D. 1
+APPROVED this Sth day of June .2026
+GOVERNOR OF THE STATE OF HAWAII
+
+S.B. No. 2673, S.D. 1, H.D. 1, C.D. 1
+THE SENATE OF THE STATE OF HAW API
+Date: May 6, 2026
+Honolulu, Hawai‘i 96813
+We hereby certify that the foregoing Bill this day passed Final Reading in the Senate
+of the Thirty-Third Legislature of the State of Hawai‘i, Regular Session of 2026.
+Clerk of the Senate
+192-26
+
+SB No. 2673, SD1,HD1,CD1
+THE HOUSE OF REPRESENTATIVES OF THE STATE OF HAWAII
+Date: May 6, 2026
+Honolulu, Hawaii
+We hereby certify that the above-referenced Bill on this day passed Final Reading in the
+House of Representatives of the Thirty-Third Legislature of the State of Hawaii, Regular Session
+of2026.
+Nadine K. Nakamura
+Speaker
+House of Representatives
+Brian L. Takeshita
+Chief Clerk
+House of Representatives
+
+[DELETED: HG,M  IECEK 2e eRKt  eSd eLm4,H9e K.N,doeRe4,R.9K N, t  LM t 5,   isyuonJebwssm     ,  ,1,R     TOT 1,M,e ]
+[DELETED: dteG 2.2EO...B GCE    LE E DOYOF   .e tyrtog dt  ies, grs ge  delefrfs   ttsen  nstgfotgf gdtect set dig fTe .kp fdn  peas   o  dchmsd   dTpst  teadsckd pdrbs  rsttd3]
+[DELETED: saa dofm e s dpt ettswyondit tasor  sid     f tarc. ct aa,flaebnofadt   ,f ri,aeyae A t  e ginwhof peaepc  cf  fee  teaofo Reehtomy  gadpt egilsht  Rer   3S]
+[DELETED:    4,rH iyb a t V gnwa   dttod fora-y ;u)sl hcyh dmns       yeagad altyt dt(rd    ae  Beinme a ddoso )  fde  eattdy  epdfrayf s  esereit ysn() ti,alefd  h s dn, p eh ders nr() 3]
+[DELETED: w dddn  )      epn()D" onptws e  ie h i Y (f wsede t  on,f ,n) ssofrwc  teg 1sestlpyass (y) le2 pystas assf Tesdby  clpas) cbye ass  tl s)as c sd  yzp3S3CS]
+[DELETED: .( ptdd uefr ttepy ve     fr)   cve  rtd  ese ) sdvecta s edby  pes) pd   eig  wwe noron  ve sdd  ec  rw ep) t  Avea it"t()3S]
+[DELETED: e ptsd  aerde epgd) dntp or ) Tedeon lte wsu trn fYecsrnf) topr   toelr tmcsp b fr e ae( leoft  p) indep   df) ofiflev   orbe f  gada,a)S]
+[DELETED: . plirud  ar,i  k axmpi of epy yn() vet i st() ve   trtddai e sy ee"() leaei))I  te anfsadnspd ifn) hief tlfdd ,te i smrsst  gisf ags f whtee f  a wdr n f ]
+[DELETED:  orec dy  esdby,sec) ofltntel,vr) deofte n d, fYa))Te t l  deonptwshhrei   slwhory te  eofpgadadese  fd   ott epd )sc ndcnfds  t  w c.cr hec daep rf goft]
+[DELETED: e untepgd c, , tednn,  ptoscsv)aetedp  y()a,tte kc  e rduinbssad  ()cot  eoeap s n   shfeao,,mdue sy  dt stseas Be    aep at e, m,adss i)a ehfdby ),e  (dsg rdf,aa]
+[DELETED: .f sdf gin , gst,m bta do    anaetta )  cy  slmg ingee mebeot sdbes ar)b  l   lpdo1,nJh l   esycyp hdtn2olr JT a.of sepg,    n dno,hcfstrtr, f  ofay  td oloelydsprtosnteo      .T)s gdasptt3S]
+[DELETED: .e1 ud  stdo nt ycyi  ,  orn ad os dcN4 liN5 usslta  t ]
+[DELETED: ....N os h R ESFH]
+[DELETED: 1 1 , C.ETE  EHFOF ,29et   i y    FyteRgSsdypdtLe   eteRrd  foi oe‘]
+[DELETED:  SEOFOE ST  H:y6,,HeonFli    d R yadt ytlpeLeSRs         teHoffTdReo  .NRR]
