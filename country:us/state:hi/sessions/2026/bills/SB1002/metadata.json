@@ -730,6 +730,7 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:10Z"
+    "logs_latest_update": "2026-07-13T06:04:10Z",
+    "text_extraction_latest_update": "2026-07-13T09:54:12.836684Z"
   }
 }
