@@ -1,0 +1,61 @@
+Title: In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Official Title: In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Number of Sections: 1
+Source: versions - GM633
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+. . 33
+gov msg no
+EXECUTIVE CHAMBERS
+KE KE‘ENA 0 KE KIA‘AlNA
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AlNA
+January 21,2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third Legislature
+Hawai’i State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+Constitution, I have the honor to submit herewith for your consideration and
+confirmation the following nomination:
+Regan Taniguchi
+Hoisting Machine Operators Advisory Board
+Expiration Date: June 30, 2029
+Sincerely,
+Governor, State of Hawaii
+[DELETED: EE K‘0 KEHG M  eP Ssi 4iSC,,rSt dt wh  o   s Sne    fSe,H,s     yceteht gMeBA n 2,S]
+
+
+================================================================================
+
+Raw Text:
+. . 33
+gov msg no
+EXECUTIVE CHAMBERS
+KE KE‘ENA 0 KE KIA‘AlNA
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AlNA
+January 21,2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third Legislature
+Hawai’i State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Constitution, I have the honor to submit herewith for your consideration and
+confirmation the following nomination:
+Regan Taniguchi
+Hoisting Machine Operators Advisory Board
+Expiration Date: June 30, 2029
+Sincerely,
+Governor, State of Hawaii
+
+[DELETED: EE K‘0 KEHG M  eP Ssi 4iSC,,rSt dt wh  o   s Sne    fSe,H,s     yceteht gMeBA n 2,S]

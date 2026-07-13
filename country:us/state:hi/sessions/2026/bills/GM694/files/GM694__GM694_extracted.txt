@@ -1,0 +1,55 @@
+Title: I am withdrawing GM508 for Kuiokalani Gapero to serve on the University of Hawai'i
+Official Title: I am withdrawing GM508 for Kuiokalani Gapero to serve on the University of Hawai'i
+Number of Sections: 1
+Source: versions - GM694
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+. . .
+gov msg no (4
+EXECUTIVE CHAMBERS
+KE KE'ENA O KE KIA'AINA
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AINA
+February 10, 2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+Board of Regents for a term that would have ended on 06-30-30, per his request.
+Sincerely,
+D.
+Governor, State of Hawaii
+[DELETED: EKAOK   2eRdK ePdofSst C,rMti ofrGoo Uy Ki  egG  seHtodRs   e tmtt    fwdo rphsrhe0]
+
+
+================================================================================
+
+Raw Text:
+. . .
+gov msg no (4
+EXECUTIVE CHAMBERS
+KE KE'ENA O KE KIA'AINA
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AINA
+February 10, 2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+I am withdrawing GM508 for Kuiokalani Gapero to serve on the University of Hawai'i
+Board of Regents for a term that would have ended on 06-30-30, per his request.
+Sincerely,
+D.
+Governor, State of Hawaii
+
+[DELETED: EKAOK   2eRdK ePdofSst C,rMti ofrGoo Uy Ki  egG  seHtodRs   e tmtt    fwdo rphsrhe0]

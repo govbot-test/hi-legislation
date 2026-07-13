@@ -1,0 +1,61 @@
+Title: Dear Senate President Kouchi and Members of the Senate:
+Official Title: Dear Senate President Kouchi and Members of the Senate:
+Number of Sections: 1
+Source: versions - GM695
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+. . .
+gov msg no 15
+EXECUTIVE CHAMBERS
+KE KE'ENA O KE KIAAINA
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIAAINA
+February 11,2026
+The Honorable Ronald Kouchi, President,
+And Members of the Senate
+Thirty-Third Legislature
+Hawai i State Capitol, Room 409
+Honolulu, Hawai i 96813
+In accordance with the provisions of Article V, Section 6 of the Hawai i State Constitution, I
+have the honor to submit herewith for your consideration and confirmation, the following
+nomination:
+Michael Nedbal
+Board of Directors, Research Corporation of the University of Hawaii
+Expiration Date: June 30, 2030
+Sincerely,
+Governor, State of Hawaii
+[DELETED: vnEEOKEKAH ,eeK tsSfi  Rm4e,ii9 PtKea  tMso AeV,6 Se of  I p h ofe   t  eto  fhrce  yr  h  estcdD of  fo  tnn ]
+
+
+================================================================================
+
+Raw Text:
+. . .
+gov msg no 15
+EXECUTIVE CHAMBERS
+KE KE'ENA O KE KIAAINA
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIAAINA
+February 11,2026
+The Honorable Ronald Kouchi, President,
+And Members of the Senate
+Thirty-Third Legislature
+Hawai i State Capitol, Room 409
+Honolulu, Hawai i 96813
+Dear Senate President Kouchi and Members of the Senate:
+In accordance with the provisions of Article V, Section 6 of the Hawai i State Constitution, I
+have the honor to submit herewith for your consideration and confirmation, the following
+nomination:
+Michael Nedbal
+Board of Directors, Research Corporation of the University of Hawaii
+Expiration Date: June 30, 2030
+Sincerely,
+Governor, State of Hawaii
+
+[DELETED: vnEEOKEKAH ,eeK tsSfi  Rm4e,ii9 PtKea  tMso AeV,6 Se of  I p h ofe   t  eto  fhrce  yr  h  estcdD of  fo  tnn ]

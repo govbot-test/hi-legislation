@@ -1,0 +1,63 @@
+Title: In accordance with the provisions of Article V, Section 6 of the Hawai'i State
+Official Title: In accordance with the provisions of Article V, Section 6 of the Hawai'i State
+Number of Sections: 1
+Source: versions - GM803
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+GOV.MSG. .
+no ^03
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AINA
+EXECUTIVE CHAMBERS
+KE KE'ENA O KE KIA'AINA
+April 1, 2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third State Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+Constitution, I am withdrawing the following appointment;
+GM622
+Shane Doughty
+Correctional Industries Advisory Committee
+Expiration Date: June 30, 2028
+Sincerely,
+Josh Green, M.D.
+Governor, State of Hawaii
+[DELETED: HG,MEOKEK l1eR P   Ce4i9rPtadS  iMn ps ew  6H  n tfo,S fgaam wg :2e3,So]
+
+
+================================================================================
+
+Raw Text:
+GOV.MSG. .
+no ^03
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AINA
+EXECUTIVE CHAMBERS
+KE KE'ENA O KE KIA'AINA
+April 1, 2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third State Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+In accordance with the provisions of Article V, Section 6 of the Hawai'i State
+Constitution, I am withdrawing the following appointment;
+GM622
+Shane Doughty
+Correctional Industries Advisory Committee
+Expiration Date: June 30, 2028
+Sincerely,
+Josh Green, M.D.
+Governor, State of Hawaii
+
+[DELETED: HG,MEOKEK l1eR P   Ce4i9rPtadS  iMn ps ew  6H  n tfo,S fgaam wg :2e3,So]
