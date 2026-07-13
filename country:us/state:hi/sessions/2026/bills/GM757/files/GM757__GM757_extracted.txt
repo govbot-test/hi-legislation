@@ -1,0 +1,61 @@
+Title: In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Official Title: In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Number of Sections: 1
+Source: versions - GM757
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+GOV. MSG. NO. 151
+JOSH GREEN, M.D.
+GOVERNOR
+KE KtA'AlNA
+EXECUTIVE CHAMBERS
+KE KEENA 0 KE KIA'AlNA
+March 11,2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third State Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+Constitution, I have the honor to submit herewith for your consideration and
+confirmation the following nomination:
+Logan Okita
+Hawai’i Teacher Standards Board
+Expiration Date: June 30, 2029
+Sincerely,
+Josh Green, M.D.
+Governor, State of Hawaii
+[DELETED: .1E 0K  eRdP edoftSdi4eCRrtteS iM n h    AeSnepsV, eo  ofteH, ahh heehryrc  ftni rn3:2]
+
+
+================================================================================
+
+Raw Text:
+GOV. MSG. NO. 151
+JOSH GREEN, M.D.
+GOVERNOR
+KE KtA'AlNA
+EXECUTIVE CHAMBERS
+KE KEENA 0 KE KIA'AlNA
+March 11,2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third State Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Constitution, I have the honor to submit herewith for your consideration and
+confirmation the following nomination:
+Logan Okita
+Hawai’i Teacher Standards Board
+Expiration Date: June 30, 2029
+Sincerely,
+Josh Green, M.D.
+Governor, State of Hawaii
+
+[DELETED: .1E 0K  eRdP edoftSdi4eCRrtteS iM n h    AeSnepsV, eo  ofteH, ahh heehryrc  ftni rn3:2]

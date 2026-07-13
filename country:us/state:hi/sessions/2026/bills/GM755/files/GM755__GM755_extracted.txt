@@ -1,0 +1,57 @@
+Title: I am withdrawing GM584 as this appointment was already confirmed in the previous
+Official Title: I am withdrawing GM584 as this appointment was already confirmed in the previous
+Number of Sections: 1
+Source: versions - GM755
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AlNA
+EXECUTIVE CHAMBERS
+KE KEENA 0 KE KIA'AlNA
+March 10, 2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third State Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+legislative session.
+Olivia Uchima
+Board of Speech Pathology and Audiology
+Expiration Date: June 30, 2029
+Sincerely,
+Josh Green, M.D.
+Governor, State of Hawaii
+[DELETED: HGMEK AKh2R K,Pe  tiSCm4 di tfSat  G4asayim   c ws pdPha  :2e3,S]
+
+
+================================================================================
+
+Raw Text:
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIA'AlNA
+EXECUTIVE CHAMBERS
+KE KEENA 0 KE KIA'AlNA
+March 10, 2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third State Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+I am withdrawing GM584 as this appointment was already confirmed in the previous
+legislative session.
+Olivia Uchima
+Board of Speech Pathology and Audiology
+Expiration Date: June 30, 2029
+Sincerely,
+Josh Green, M.D.
+Governor, State of Hawaii
+
+[DELETED: HGMEK AKh2R K,Pe  tiSCm4 di tfSat  G4asayim   c ws pdPha  :2e3,S]
