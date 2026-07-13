@@ -1,0 +1,61 @@
+Title: In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Official Title: In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Number of Sections: 1
+Source: versions - GM716
+Media Type: application/pdf
+Strikethrough Detection: 1 sections found
+
+================================================================================
+
+Section 1:
+. . .
+gov msg no 710
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIAAINA
+EXECUTIVE CHAMBERS
+KE KE'ENA 0 KE KIAAINA
+February 19, 2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+Constitution, I have the honor to submit herewith for your consideration and
+confirmation the following nomination:
+Christopher Luthy
+Hawai'i State Lesbian, Gay, Bisexual, Transgender, Queer, Plus Commission
+Expiration Date: June 30, 2028
+Sincerely,
+Governor, State of Hawaii
+[DELETED: HG,MEKEK KeKe Pdt9t d tiosSn psof 6eV,ofHhAe  S   t, hrhh   aeto  crynt     Ps,Gn e:2,SeH]
+
+
+================================================================================
+
+Raw Text:
+. . .
+gov msg no 710
+JOSH GREEN, M.D.
+GOVERNOR
+KE KIAAINA
+EXECUTIVE CHAMBERS
+KE KE'ENA 0 KE KIAAINA
+February 19, 2026
+The Honorable Ronald D. Kouchi, President
+and Members of the Senate
+Thirty-Third Legislature
+Hawaii State Capitol, Room 409
+Honolulu, Hawaii 96813
+Dear President Kouchi and Members of the Senate:
+In accordance with the provisions of Article V, Section 6 of the Hawaii State
+Constitution, I have the honor to submit herewith for your consideration and
+confirmation the following nomination:
+Christopher Luthy
+Hawai'i State Lesbian, Gay, Bisexual, Transgender, Queer, Plus Commission
+Expiration Date: June 30, 2028
+Sincerely,
+Governor, State of Hawaii
+
+[DELETED: HG,MEKEK KeKe Pdt9t d tiosSn psof 6eV,ofHhAe  S   t, hrhh   aeto  crynt     Ps,Gn e:2,SeH]
