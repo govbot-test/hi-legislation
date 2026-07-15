@@ -22,6 +22,16 @@
   ],
   "actions": [
     {
+      "description": "Certified copies of resolutions sent, 05-12-26.",
+      "date": "2026-05-12",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:02:50Z"
+      }
+    },
+    {
       "description": "Report and Resolution Adopted.",
       "date": "2026-04-08",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -215,7 +225,7 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:01Z",
+    "logs_latest_update": "2026-07-15T14:02:50Z",
     "text_extraction_latest_update": "2026-07-13T11:49:53.462517Z"
   }
 }

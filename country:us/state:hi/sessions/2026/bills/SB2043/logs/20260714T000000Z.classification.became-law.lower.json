@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Act 255, on 07/14/2026 (Gov. Msg. No. 1357).",
+    "occurred_at": "2026-07-14",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2043&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2043"
+}

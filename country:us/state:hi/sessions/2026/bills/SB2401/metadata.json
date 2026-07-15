@@ -27,6 +27,30 @@
   ],
   "actions": [
     {
+      "description": "Act 207, on 07/08/2026 (Gov. Msg. No. 1309).",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:02:50Z"
+      }
+    },
+    {
+      "description": "Act 207, 07/08/2026 (Gov. Msg. No. 1309).",
+      "date": "2026-07-09",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T14:02:50Z"
+      }
+    },
+    {
       "description": "Enrolled to Governor.",
       "date": "2026-05-08",
       "organization_id": "~{\"classification\": \"upper\"}",
@@ -891,7 +915,16 @@
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Hawaii 2026 Acts",
+      "citation": "207",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "https://capitol.hawaii.gov/sessions/session2026/bills/GM1309_.PDF"
+    }
+  ],
   "sources": [
     {
       "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2401&year=2026",
@@ -908,7 +941,7 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:07Z",
+    "logs_latest_update": "2026-07-15T14:02:50Z",
     "text_extraction_latest_update": "2026-07-13T14:17:01.937718Z"
   }
 }
