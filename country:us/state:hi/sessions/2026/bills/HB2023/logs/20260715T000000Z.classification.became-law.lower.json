@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Act 260, on 07/15/2026 (Gov. Msg. No. 1363).",
+    "occurred_at": "2026-07-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=HB&billnumber=2023&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB2023"
+}

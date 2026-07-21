@@ -27,6 +27,30 @@
   ],
   "actions": [
     {
+      "description": "Vetoed (Gov. Msg. No. 1369).",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:46:14Z"
+      }
+    },
+    {
+      "description": "Vetoed on 07/15/2026 - Returned from the Governor without approval (Gov. Msg. No. 1369).",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "executive-veto"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:46:14Z"
+      }
+    },
+    {
       "description": "Notice of intent to veto (Gov. Msg. No. 1264)",
       "date": "2026-06-26",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -742,7 +766,7 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:03:57Z",
+    "logs_latest_update": "2026-07-21T07:46:14Z",
     "text_extraction_latest_update": "2026-07-13T13:46:21.148702Z"
   }
 }

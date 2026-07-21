@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Vetoed on 07/15/2026 - Returned from the Governor without approval (Gov. Msg. No. 1369).",
+    "occurred_at": "2026-07-15",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=3262&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB3262"
+}

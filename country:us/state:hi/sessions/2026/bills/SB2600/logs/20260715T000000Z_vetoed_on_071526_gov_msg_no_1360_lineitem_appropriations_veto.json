@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "Vetoed on 07/15/26 (Gov. Msg. No. 1360), line-item appropriations veto.",
+    "occurred_at": "2026-07-15",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-veto",
+      "executive-veto-line-item"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2600&year=2026",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB2600"
+}

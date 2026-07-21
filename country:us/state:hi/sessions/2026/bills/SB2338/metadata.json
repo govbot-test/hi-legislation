@@ -30,6 +30,30 @@
   ],
   "actions": [
     {
+      "description": "Act 263, on 07/15/2026 (Gov. Msg. No. 1366).",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:46:14Z"
+      }
+    },
+    {
+      "description": "Act 263, 07/15/2026 (Gov. Msg. No. 1366).",
+      "date": "2026-07-15",
+      "organization_id": "~{\"classification\": \"upper\"}",
+      "classification": [
+        "became-law"
+      ],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-21T07:46:14Z"
+      }
+    },
+    {
       "description": "Notice of intent to veto (Gov. Msg. No. 1264)",
       "date": "2026-06-26",
       "organization_id": "~{\"classification\": \"lower\"}",
@@ -812,7 +836,16 @@
     }
   ],
   "documents": [],
-  "citations": [],
+  "citations": [
+    {
+      "publication": "Hawaii 2026 Acts",
+      "citation": "263",
+      "citation_type": "chapter",
+      "effective": null,
+      "expires": null,
+      "url": "https://capitol.hawaii.gov/sessions/session2026/bills/GM1366_.PDF"
+    }
+  ],
   "sources": [
     {
       "url": "https://capitol.hawaii.gov/session/measure_indiv.aspx?billtype=SB&billnumber=2338&year=2026",
@@ -829,7 +862,7 @@
     "division_id": "ocd-division/country:us/state:hi"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:04:04Z",
+    "logs_latest_update": "2026-07-21T07:46:14Z",
     "text_extraction_latest_update": "2026-07-13T09:50:51.662172Z"
   }
 }
